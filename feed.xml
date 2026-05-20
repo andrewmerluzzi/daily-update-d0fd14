@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew's Daily Update</title>
+    <link>https://andrewmerluzzi.github.io/daily-update-d0fd14</link>
+    <atom:link href="https://andrewmerluzzi.github.io/daily-update-d0fd14/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>An automatically generated daily podcast. Two hosts talk through the genuinely new and interesting things from Andrew's recurring newsletters, in three segments: Tech, AI in Government, and a Grab Bag (economics, ideas, and everything else). Not a verbatim reading — a tight, engaging conversation that filters out the noise.</description>
+    <itunes:subtitle>A short daily briefing in three segments: tech, AI in government, and a grab bag of ideas.</itunes:subtitle>
+    <itunes:summary>An automatically generated daily podcast. Two hosts talk through the genuinely new and interesting things from Andrew's recurring newsletters, in three segments: Tech, AI in Government, and a Grab Bag (economics, ideas, and everything else). Not a verbatim reading — a tight, engaging conversation that filters out the noise.</itunes:summary>
+    <itunes:author>Andrew Merluzzi</itunes:author>
+    <copyright>Andrew Merluzzi</copyright>
+    <itunes:owner>
+      <itunes:name>Andrew Merluzzi</itunes:name>
+      <itunes:email>andrewmerluzzi@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://andrewmerluzzi.github.io/daily-update-d0fd14/cover.jpg"/>
+    <image><url>https://andrewmerluzzi.github.io/daily-update-d0fd14/cover.jpg</url><title>Andrew's Daily Update</title><link>https://andrewmerluzzi.github.io/daily-update-d0fd14</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Wed, 20 May 2026 13:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 20, 2026</title>
+      <description>In tech, Google SVP and labor economist James Manyika makes a data-backed case that AI tasks are automating fast but whole jobs aren't — his "coupled tasks" insight directly challenges the job-apocalypse predictions, and Colossal Biosciences claims a fully artificial eggshell. In AI in government, Andreessen Horowitz becomes the biggest single donor in the twenty twenty-six midterms as the AI industry rewrites campaign finance, while a federal watchdog finds the Agriculture Department running AI systems without required authorization — and Colorado passes a comprehensive AI consumer-rights package. In the grab bag, a bipartisan housing supply bill gets derailed by a fake problem, and the CFTC sues Minnesota over prediction markets while opening an eight-hundred-million-dollar investigation into suspicious oil trades tied to a presidential social media post.
+
+In this episode:
+• Google's James Manyika is betting that doomers are wrong about AI and jobs — Platformer (Casey Newton)
+• Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell — MIT Tech Review: The Download
+• OpenAI co-founder Andrej Karpathy has joined rival lab Anthropic — MIT Tech Review: The Download
+• Elon Musk has lost his landmark lawsuit against OpenAI — MIT Tech Review: The Download
+• AI &amp; Tech Brief: The AI Influence Machine — WaPo AI &amp; Tech Brief
+• Federal AI Spending, Foundation Model Gatekeepers, and More — Brookings TechTank
+• USDA is using AI — but doesn't have required controls to manage risks, watchdog finds — Google Alert: AI (govexec.com)
+• These tech regulation laws passed the Colorado Legislature this year — Google Alert: AI (route-fifty.com)
+• Denver City Council Approves Data Center Moratorium — Google Alert: AI (govtech.com)
+• We can fix the Trump/Warren build-to-rent ban — Slow Boring (Matt Yglesias)
+• A New Ebola Outbreak (CFTC sues Minnesota / oil futures investigation) — The Dispatch</description>
+      <itunes:summary>In tech, Google SVP and labor economist James Manyika makes a data-backed case that AI tasks are automating fast but whole jobs aren't — his "coupled tasks" insight directly challenges the job-apocalypse predictions, and Colossal Biosciences claims a fully artificial eggshell. In AI in government, Andreessen Horowitz becomes the biggest single donor in the twenty twenty-six midterms as the AI industry rewrites campaign finance, while a federal watchdog finds the Agriculture Department running AI systems without required authorization — and Colorado passes a comprehensive AI consumer-rights package. In the grab bag, a bipartisan housing supply bill gets derailed by a fake problem, and the CFTC sues Minnesota over prediction markets while opening an eight-hundred-million-dollar investigation into suspicious oil trades tied to a presidential social media post.
+
+In this episode:
+• Google's James Manyika is betting that doomers are wrong about AI and jobs — Platformer (Casey Newton)
+• Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell — MIT Tech Review: The Download
+• OpenAI co-founder Andrej Karpathy has joined rival lab Anthropic — MIT Tech Review: The Download
+• Elon Musk has lost his landmark lawsuit against OpenAI — MIT Tech Review: The Download
+• AI &amp; Tech Brief: The AI Influence Machine — WaPo AI &amp; Tech Brief
+• Federal AI Spending, Foundation Model Gatekeepers, and More — Brookings TechTank
+• USDA is using AI — but doesn't have required controls to manage risks, watchdog finds — Google Alert: AI (govexec.com)
+• These tech regulation laws passed the Colorado Legislature this year — Google Alert: AI (route-fifty.com)
+• Denver City Council Approves Data Center Moratorium — Google Alert: AI (govtech.com)
+• We can fix the Trump/Warren build-to-rent ban — Slow Boring (Matt Yglesias)
+• A New Ebola Outbreak (CFTC sues Minnesota / oil futures investigation) — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-20.mp3" length="6815130" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-20.mp3</guid>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
