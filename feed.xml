@@ -22,33 +22,43 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 21 May 2026 16:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:39:32 +0000</lastBuildDate>
     <item>
       <title>Daily Update — May 21, 2026</title>
-      <description>In tech, Google's James Manyika makes a data-driven case that the AI jobs apocalypse is overstated — fifty percent of tasks may be automatable, but barely ten percent of occupations are, a number that hasn't budged in a decade. In AI and government, Andreessen Horowitz becomes the single biggest donor in the twenty twenty-six midterms as the AI industry copies the crypto political playbook, the Agriculture Department gets caught deploying AI without required safety controls, and the White House prepares an executive order on AI security. The grab bag covers OpenAI solving an eighty-year-old math problem, the paradox of AI skepticism surging in America while China grows quietly fearful of job displacement, and the SpaceX IPO filing that reveals just how much xAI is bleeding.
+      <description>Today's episode covers Google's all-in bet at Google I/O — personal AI agents, a universal shopping cart, and the biggest search redesign in twenty-five years — plus SpaceX's blockbuster IPO filing and an OpenAI math breakthrough. In the government segment: a new White House AI executive order, Colorado walking back its AI regulation law, and an AI name-reader that wrecked graduation for hundreds of students. The grab bag features why immigration enforcement raids are not helping native workers, the surprisingly strong case against the ethanol mandate, and new data showing Chinese citizens are now just as worried about AI displacing jobs as Americans.
 
 In this episode:
-• Google's James Manyika is betting that doomers are wrong about AI and jobs — Platformer (Casey Newton)
-• AI &amp; Tech Brief: The AI Influence Machine — WaPo AI &amp; Tech Brief
-• Federal AI Spending, Foundation Model Gatekeepers, and More — Brookings TechTank
-• AI &amp; Tech Brief: Google's AI Operating System — WaPo AI &amp; Tech Brief
-• USDA is using AI — but doesn't have required controls to manage risks, watchdog finds — Google Alert (govexec.com)
-• Roundup #82: Staring in wonder at the world — Noahpinion (Noah Smith)
-• Trump's Weaponization Fund — The Dispatch</description>
-      <itunes:summary>In tech, Google's James Manyika makes a data-driven case that the AI jobs apocalypse is overstated — fifty percent of tasks may be automatable, but barely ten percent of occupations are, a number that hasn't budged in a decade. In AI and government, Andreessen Horowitz becomes the single biggest donor in the twenty twenty-six midterms as the AI industry copies the crypto political playbook, the Agriculture Department gets caught deploying AI without required safety controls, and the White House prepares an executive order on AI security. The grab bag covers OpenAI solving an eighty-year-old math problem, the paradox of AI skepticism surging in America while China grows quietly fearful of job displacement, and the SpaceX IPO filing that reveals just how much xAI is bleeding.
+• Google's AI ecosystem bet — Gemini Spark, Universal Cart, search redesign — WaPo AI &amp; Tech Brief
+• White House AI executive order expected today — WaPo AI &amp; Tech Brief
+• SpaceX files for IPO expected to be the largest in history — MIT Tech Review: The Download
+• Nvidia reports record revenues; has largely conceded China AI chip market to Huawei — MIT Tech Review: The Download
+• OpenAI general-purpose model solves Erdos unit distance problem after eighty years — Noahpinion (Noah Smith)
+• Polis tells Colorado lawmakers to go easy on tech regulations — Google Alert: AI (route-fifty.com)
+• AI name reader skips hundreds at graduation ceremony — Google Alert: AI (govtech.com)
+• Opinion: what graduation ceremonies prove about AI skepticism — Google Alert: AI (govtech.com)
+• Trump immigration raids not helping working class wages — Noahpinion (Noah Smith)
+• The dumb policy making groceries more expensive — the ethanol mandate — Slow Boring (Matt Yglesias)
+• Americans really hate AI — but China is scared too — Noahpinion (Noah Smith)
+• Claude is a neoliberal — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Today's episode covers Google's all-in bet at Google I/O — personal AI agents, a universal shopping cart, and the biggest search redesign in twenty-five years — plus SpaceX's blockbuster IPO filing and an OpenAI math breakthrough. In the government segment: a new White House AI executive order, Colorado walking back its AI regulation law, and an AI name-reader that wrecked graduation for hundreds of students. The grab bag features why immigration enforcement raids are not helping native workers, the surprisingly strong case against the ethanol mandate, and new data showing Chinese citizens are now just as worried about AI displacing jobs as Americans.
 
 In this episode:
-• Google's James Manyika is betting that doomers are wrong about AI and jobs — Platformer (Casey Newton)
-• AI &amp; Tech Brief: The AI Influence Machine — WaPo AI &amp; Tech Brief
-• Federal AI Spending, Foundation Model Gatekeepers, and More — Brookings TechTank
-• AI &amp; Tech Brief: Google's AI Operating System — WaPo AI &amp; Tech Brief
-• USDA is using AI — but doesn't have required controls to manage risks, watchdog finds — Google Alert (govexec.com)
-• Roundup #82: Staring in wonder at the world — Noahpinion (Noah Smith)
-• Trump's Weaponization Fund — The Dispatch</itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-21.mp3" length="6829550" type="audio/mpeg"/>
+• Google's AI ecosystem bet — Gemini Spark, Universal Cart, search redesign — WaPo AI &amp; Tech Brief
+• White House AI executive order expected today — WaPo AI &amp; Tech Brief
+• SpaceX files for IPO expected to be the largest in history — MIT Tech Review: The Download
+• Nvidia reports record revenues; has largely conceded China AI chip market to Huawei — MIT Tech Review: The Download
+• OpenAI general-purpose model solves Erdos unit distance problem after eighty years — Noahpinion (Noah Smith)
+• Polis tells Colorado lawmakers to go easy on tech regulations — Google Alert: AI (route-fifty.com)
+• AI name reader skips hundreds at graduation ceremony — Google Alert: AI (govtech.com)
+• Opinion: what graduation ceremonies prove about AI skepticism — Google Alert: AI (govtech.com)
+• Trump immigration raids not helping working class wages — Noahpinion (Noah Smith)
+• The dumb policy making groceries more expensive — the ethanol mandate — Slow Boring (Matt Yglesias)
+• Americans really hate AI — but China is scared too — Noahpinion (Noah Smith)
+• Claude is a neoliberal — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-21.mp3" length="8321039" type="audio/mpeg"/>
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-21.mp3</guid>
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>9:15</itunes:duration>
+      <itunes:duration>11:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
