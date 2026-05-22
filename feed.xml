@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 21 May 2026 18:08:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:46:22 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 22, 2026</title>
+      <description>In tech, Anthropic's Code with Claude developer event reveals half the room is shipping AI-written code they haven't read — and engineers are warning of a vibe-coded slop crisis — while Google's Demis Hassabis announces Gemini for Science at the foothills of the singularity. In AI in government, Trump abruptly pulls back on a landmark AI executive order over overregulation fears, exposing a coordination problem at the heart of voluntary AI safety commitments, while California and Mississippi move forward on AI workforce and education policy without waiting for Washington. The grab bag covers Yglesias on why podcasts replaced books as the medium for big ideas, and Eli Lilly's next-generation obesity drug posting twenty-eight percent weight loss in Phase three trials.
+
+In this episode:
+• Anthropic's Code with Claude showed off coding's future — whether you like it or not — MIT Tech Review: The Download
+• OpenClaw's engineers warn that a 'vibe-coded slop' crisis is coming — MIT Tech Review: The Download
+• Google I/O showed how the path for AI-driven science is shifting — MIT Tech Review: The Download
+• AI &amp; Tech Brief: White House AI order now postponed — WaPo AI &amp; Tech Brief
+• California Gov. Newsom signs executive order to prepare workforce for AI disruption — Google Alert: AI (statescoop.com)
+• Mississippi governor launches statewide AI education 'framework' — Google Alert: AI (statescoop.com)
+• Ideas are still big but books got small — Slow Boring (Matt Yglesias)
+• Weight Loss Drug Retatrutide Passes Phase 3 Trials — The Dispatch</description>
+      <itunes:summary>In tech, Anthropic's Code with Claude developer event reveals half the room is shipping AI-written code they haven't read — and engineers are warning of a vibe-coded slop crisis — while Google's Demis Hassabis announces Gemini for Science at the foothills of the singularity. In AI in government, Trump abruptly pulls back on a landmark AI executive order over overregulation fears, exposing a coordination problem at the heart of voluntary AI safety commitments, while California and Mississippi move forward on AI workforce and education policy without waiting for Washington. The grab bag covers Yglesias on why podcasts replaced books as the medium for big ideas, and Eli Lilly's next-generation obesity drug posting twenty-eight percent weight loss in Phase three trials.
+
+In this episode:
+• Anthropic's Code with Claude showed off coding's future — whether you like it or not — MIT Tech Review: The Download
+• OpenClaw's engineers warn that a 'vibe-coded slop' crisis is coming — MIT Tech Review: The Download
+• Google I/O showed how the path for AI-driven science is shifting — MIT Tech Review: The Download
+• AI &amp; Tech Brief: White House AI order now postponed — WaPo AI &amp; Tech Brief
+• California Gov. Newsom signs executive order to prepare workforce for AI disruption — Google Alert: AI (statescoop.com)
+• Mississippi governor launches statewide AI education 'framework' — Google Alert: AI (statescoop.com)
+• Ideas are still big but books got small — Slow Boring (Matt Yglesias)
+• Weight Loss Drug Retatrutide Passes Phase 3 Trials — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-22.mp3" length="5418939" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-22.mp3#5418939</guid>
+      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 21, 2026</title>
       <description>Today's episode covers Google's all-in bet at Google I/O — personal AI agents, a universal shopping cart, and the biggest search redesign in twenty-five years — plus SpaceX's blockbuster IPO filing and an OpenAI math breakthrough. In the government segment: a new White House AI executive order, Colorado walking back its AI regulation law, and an AI name-reader that wrecked graduation for hundreds of students. The grab bag features why immigration enforcement raids are not helping native workers, the surprisingly strong case against the ethanol mandate, and new data showing Chinese citizens are now just as worried about AI displacing jobs as Americans.
