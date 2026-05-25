@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 25 May 2026 00:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:07:17 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 25, 2026</title>
+      <description>In tech, we dig into the token explosion paradox — why AI bills keep rising even as the cost per token collapses, driven by agents that silently multiply token usage by fifty-five times or more. In government, Don Moynihan documents seven concrete indicators of how Trump has moved from running a personalist party to operating a personalist governing regime. And in the grab bag, what US intelligence actually shows about Iran's military strength after weeks of war, how Iran's control of the Strait of Hormuz reshapes global power, and why the intelligence director was being sidelined from the war she was supposed to oversee.
+
+In this episode:
+• Why AI bills rise as costs fall — Exponential View (Azeem Azhar)
+• Scenes from a personalist regime — Don Moynihan (state capacity)
+• Are you tired of the Trump era yet? — Noahpinion (Noah Smith)
+• Marking Memorial Day — The Dispatch
+• The man behind Memorial Day — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>In tech, we dig into the token explosion paradox — why AI bills keep rising even as the cost per token collapses, driven by agents that silently multiply token usage by fifty-five times or more. In government, Don Moynihan documents seven concrete indicators of how Trump has moved from running a personalist party to operating a personalist governing regime. And in the grab bag, what US intelligence actually shows about Iran's military strength after weeks of war, how Iran's control of the Strait of Hormuz reshapes global power, and why the intelligence director was being sidelined from the war she was supposed to oversee.
+
+In this episode:
+• Why AI bills rise as costs fall — Exponential View (Azeem Azhar)
+• Scenes from a personalist regime — Don Moynihan (state capacity)
+• Are you tired of the Trump era yet? — Noahpinion (Noah Smith)
+• Marking Memorial Day — The Dispatch
+• The man behind Memorial Day — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-25.mp3" length="6634572" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-25.mp3#6634572</guid>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 24, 2026</title>
       <description>In tech, Azeem Azhar's Exponential View makes a sharp case for why AI's biggest scientific value is cross-domain reasoning — finding wormholes between specialized silos — rather than just running more experiments faster, alongside a frank look at AI's creative deflation problem. In the government segment, Georgia's statewide AI program offers a real model for building AI governance rather than just buying tools, plus a brief look at a six-foot teaching robot from the nineteen-seventies. In the grab bag, new research debunks social media as the cause of the vibecession, points to a more specific culprit, and Jerusalem Demsas's essay on penguin disorientation, Spartan collapse, and the cost of choosing stasis.
