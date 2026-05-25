@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 23 May 2026 17:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:32:58 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 24, 2026</title>
+      <description>In tech, Azeem Azhar's Exponential View makes a sharp case for why AI's biggest scientific value is cross-domain reasoning — finding wormholes between specialized silos — rather than just running more experiments faster, alongside a frank look at AI's creative deflation problem. In the government segment, Georgia's statewide AI program offers a real model for building AI governance rather than just buying tools, plus a brief look at a six-foot teaching robot from the nineteen-seventies. In the grab bag, new research debunks social media as the cause of the vibecession, points to a more specific culprit, and Jerusalem Demsas's essay on penguin disorientation, Spartan collapse, and the cost of choosing stasis.
+
+In this episode:
+• AI's math breakthrough and its creative limits (Exponential View #575) — Exponential View (Azeem Azhar)
+• AI Is a Team Sport: Georgia Upskills for AI, Tests Agents — GovTech (via Google Alert)
+• Where did this early form of artificial intelligence teach kids? — GovTech (via Google Alert)
+• Social media isn't actually the cause of the vibecession — The Argument
+• The failure of gamifying education — The Argument
+• On suicidal penguins — The Argument (Jerusalem Demsas)</description>
+      <itunes:summary>In tech, Azeem Azhar's Exponential View makes a sharp case for why AI's biggest scientific value is cross-domain reasoning — finding wormholes between specialized silos — rather than just running more experiments faster, alongside a frank look at AI's creative deflation problem. In the government segment, Georgia's statewide AI program offers a real model for building AI governance rather than just buying tools, plus a brief look at a six-foot teaching robot from the nineteen-seventies. In the grab bag, new research debunks social media as the cause of the vibecession, points to a more specific culprit, and Jerusalem Demsas's essay on penguin disorientation, Spartan collapse, and the cost of choosing stasis.
+
+In this episode:
+• AI's math breakthrough and its creative limits (Exponential View #575) — Exponential View (Azeem Azhar)
+• AI Is a Team Sport: Georgia Upskills for AI, Tests Agents — GovTech (via Google Alert)
+• Where did this early form of artificial intelligence teach kids? — GovTech (via Google Alert)
+• Social media isn't actually the cause of the vibecession — The Argument
+• The failure of gamifying education — The Argument
+• On suicidal penguins — The Argument (Jerusalem Demsas)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-24.mp3" length="5837734" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-24.mp3#5837734</guid>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 23, 2026</title>
       <description>The AI backlash is going physical: a jar of muddy water at a congressional hearing, Eric Schmidt booed at a commencement — Azeem Azhar explains why facts and promises can't win against a dirty kitchen tap. In government, tech CEOs killed Trump's AI executive order at the last minute, Newsom floated universal basic capital for displaced workers, and states from North Carolina to Denver moved on concrete AI rules. In the grab bag, Noah Smith argues the US debt spiral isn't a future scenario — it's already running.
