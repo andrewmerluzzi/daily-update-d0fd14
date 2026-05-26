@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 25 May 2026 14:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:07:08 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 26, 2026</title>
+      <description>On today's episode: two tech pieces put Anthropic in the crosshairs from opposite directions — one newsletter accuses the company of geopolitical dogma, while a co-founder's Oxford lecture warns that AI could end civilization. In government, Pope Leo the Fourteenth issues his first encyclical on artificial intelligence, calling for legal frameworks to keep the technology out of the hands of a few — with an Anthropic co-founder in attendance at the Vatican. And in the grab bag: AI-written stories infiltrate a prestigious short story prize, and Matt Yglesias argues that affordability has become political slop that avoids the harder conversation about growth.
+
+In this episode:
+• ChinAI #360: Anthropic's Dogma on US-China AI Competition — ChinAI
+• Cosmos HAI Lab Lecture: Explore the future, or retreat from the present — Import AI
+• A reality check on the AI jobs hysteria — MIT Tech Review: The Download
+• Pope Leo XIV Issues Encyclical on Artificial Intelligence — The Dispatch
+• The literary world is sleepwalking into an AI disaster — The Argument
+• I'm sick of affordability — Slow Boring</description>
+      <itunes:summary>On today's episode: two tech pieces put Anthropic in the crosshairs from opposite directions — one newsletter accuses the company of geopolitical dogma, while a co-founder's Oxford lecture warns that AI could end civilization. In government, Pope Leo the Fourteenth issues his first encyclical on artificial intelligence, calling for legal frameworks to keep the technology out of the hands of a few — with an Anthropic co-founder in attendance at the Vatican. And in the grab bag: AI-written stories infiltrate a prestigious short story prize, and Matt Yglesias argues that affordability has become political slop that avoids the harder conversation about growth.
+
+In this episode:
+• ChinAI #360: Anthropic's Dogma on US-China AI Competition — ChinAI
+• Cosmos HAI Lab Lecture: Explore the future, or retreat from the present — Import AI
+• A reality check on the AI jobs hysteria — MIT Tech Review: The Download
+• Pope Leo XIV Issues Encyclical on Artificial Intelligence — The Dispatch
+• The literary world is sleepwalking into an AI disaster — The Argument
+• I'm sick of affordability — Slow Boring</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-26.mp3" length="6348061" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-26.mp3#6348061</guid>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 25, 2026</title>
       <description>In tech, we dig into the token explosion paradox — why AI bills keep rising even as the cost per token collapses, driven by agents that silently multiply token usage by fifty-five times or more. In government, Don Moynihan documents seven concrete indicators of how Trump has moved from running a personalist party to operating a personalist governing regime. And in the grab bag, what US intelligence actually shows about Iran's military strength after weeks of war, how Iran's control of the Strait of Hormuz reshapes global power, and why the intelligence director was being sidelined from the war she was supposed to oversee.
