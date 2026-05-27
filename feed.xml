@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 26 May 2026 14:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:08:53 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 27, 2026</title>
+      <description>The creator of Claude Code says the job title 'software engineer' could vanish by year's end, replaced by 'builders' directing AI agents — but predicts a hundred times more people writing code overall. Reflection AI, a twenty-five billion dollar open-source company, opens a DC office arguing America is losing the open-source AI race to China at a geopolitical scale. And in the grab bag, Noah Smith makes the case that the future of human work is basically Bill Lumbergh from Office Space: keeping AI on task.
+
+In this episode:
+• Claude Code's creator on the end of the software engineer — Platformer (Casey Newton)
+• China has overhauled the world's biggest surveillance network with AI — MIT Tech Review: The Download
+• Reflection AI arrives in Washington — WaPo AI &amp; Tech Brief
+• Trump wants all federal employees to sign NDAs — Don Moynihan (state capacity)
+• House releases DOE funding proposal details — blocks AI supercomputer funding — AIP Science Policy News
+• As Illinois lawmakers debate POWER Act, concerns about data centers spill into rural communities — Google Alert: AI (route-fifty.com)
+• Your future job will be to keep AI on task — Noahpinion (Noah Smith)</description>
+      <itunes:summary>The creator of Claude Code says the job title 'software engineer' could vanish by year's end, replaced by 'builders' directing AI agents — but predicts a hundred times more people writing code overall. Reflection AI, a twenty-five billion dollar open-source company, opens a DC office arguing America is losing the open-source AI race to China at a geopolitical scale. And in the grab bag, Noah Smith makes the case that the future of human work is basically Bill Lumbergh from Office Space: keeping AI on task.
+
+In this episode:
+• Claude Code's creator on the end of the software engineer — Platformer (Casey Newton)
+• China has overhauled the world's biggest surveillance network with AI — MIT Tech Review: The Download
+• Reflection AI arrives in Washington — WaPo AI &amp; Tech Brief
+• Trump wants all federal employees to sign NDAs — Don Moynihan (state capacity)
+• House releases DOE funding proposal details — blocks AI supercomputer funding — AIP Science Policy News
+• As Illinois lawmakers debate POWER Act, concerns about data centers spill into rural communities — Google Alert: AI (route-fifty.com)
+• Your future job will be to keep AI on task — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-27.mp3" length="6696639" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-27.mp3#6696639</guid>
+      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 26, 2026</title>
       <description>On today's episode: two tech pieces put Anthropic in the crosshairs from opposite directions — one newsletter accuses the company of geopolitical dogma, while a co-founder's Oxford lecture warns that AI could end civilization. In government, Pope Leo the Fourteenth issues his first encyclical on artificial intelligence, calling for legal frameworks to keep the technology out of the hands of a few — with an Anthropic co-founder in attendance at the Vatican. And in the grab bag: AI-written stories infiltrate a prestigious short story prize, and Matt Yglesias argues that affordability has become political slop that avoids the harder conversation about growth.
