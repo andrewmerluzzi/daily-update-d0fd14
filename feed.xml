@@ -22,7 +22,27 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 27 May 2026 14:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:06:56 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — May 31, 2026</title>
+      <description>Today: Azeem Azhar at Exponential View explains why Wall Street analysts keep systematically underestimating AI — they're using mean-reversion models on an exponential curve, with Micron's earnings forecast jumping from eighteen dollars to fifty-eight dollars per share in five months as Exhibit A. In the grab bag: Pope Leo XIV's landmark AI encyclical 'Magnifica Humanitas' argues civilization should be measured by whether we see a face rather than a function, with a sharp counterpoint from Yuval Levin that the document undersizes the technology. Plus Noah Smith connects AI's rapid rise to factory farming via I.J. Good's Meta-Golden Rule: treat your inferiors as you'd want to be treated by your superiors.
+
+In this episode:
+• Does AI make you dumb? And why our forecasts suck — Exponential View (Azeem Azhar)
+• Magnifica Humanitas Calls Us to See a Face, Not Function — The Dispatch
+• The way we treat pigs is a sin — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Today: Azeem Azhar at Exponential View explains why Wall Street analysts keep systematically underestimating AI — they're using mean-reversion models on an exponential curve, with Micron's earnings forecast jumping from eighteen dollars to fifty-eight dollars per share in five months as Exhibit A. In the grab bag: Pope Leo XIV's landmark AI encyclical 'Magnifica Humanitas' argues civilization should be measured by whether we see a face rather than a function, with a sharp counterpoint from Yuval Levin that the document undersizes the technology. Plus Noah Smith connects AI's rapid rise to factory farming via I.J. Good's Meta-Golden Rule: treat your inferiors as you'd want to be treated by your superiors.
+
+In this episode:
+• Does AI make you dumb? And why our forecasts suck — Exponential View (Azeem Azhar)
+• Magnifica Humanitas Calls Us to See a Face, Not Function — The Dispatch
+• The way we treat pigs is a sin — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-31.mp3" length="5937416" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-05-31.mp3#5937416</guid>
+      <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 27, 2026</title>
       <description>The creator of Claude Code says the job title 'software engineer' could vanish by year's end, replaced by 'builders' directing AI agents — but predicts a hundred times more people writing code overall. Reflection AI, a twenty-five billion dollar open-source company, opens a DC office arguing America is losing the open-source AI race to China at a geopolitical scale. And in the grab bag, Noah Smith makes the case that the future of human work is basically Bill Lumbergh from Office Space: keeping AI on task.
