@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 31 May 2026 15:06:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:09:43 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 01, 2026</title>
+      <description>Today's tech segment covers Nvidia's RTX Spark — a personal computer chip built from the ground up for AI agents — plus China becoming the first country to approve an invasive brain-computer interface for general use, and new research revealing that the AI economy is growing at 2,600% in quality-adjusted real terms but nearly invisible in GDP statistics. On the government front, Don Moynihan maps how five overlapping politicization tactics are systematically capturing American science policy under OMB's Russ Vought. In the grab bag, Trump's polling collapse has put the Senate legitimately in play for Democrats, and Matt Yglesias makes a sharp case about why ideology — not scandal — drives how voters judge candidates like Platner and Talarico.
+
+In this episode:
+• Nvidia launches RTX Spark, entering the personal computer market — MIT Tech Review: The Download
+• China has approved the world's first invasive brain-computer chip — MIT Tech Review: The Download
+• We checked. Again. Still no bubble. — Exponential View (Azeem Azhar)
+• Import AI 459: AI economy growing 2,600% in quality-adjusted terms, invisible in GDP — Import AI (Jack Clark)
+• The Creep of Politicization — Don Moynihan (state capacity)
+• How Trump put the Senate into play — The Argument
+• James Talarico has an obligation to win — Slow Boring (Matt Yglesias)
+• Seventeen thoughts on Graham Platner — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Today's tech segment covers Nvidia's RTX Spark — a personal computer chip built from the ground up for AI agents — plus China becoming the first country to approve an invasive brain-computer interface for general use, and new research revealing that the AI economy is growing at 2,600% in quality-adjusted real terms but nearly invisible in GDP statistics. On the government front, Don Moynihan maps how five overlapping politicization tactics are systematically capturing American science policy under OMB's Russ Vought. In the grab bag, Trump's polling collapse has put the Senate legitimately in play for Democrats, and Matt Yglesias makes a sharp case about why ideology — not scandal — drives how voters judge candidates like Platner and Talarico.
+
+In this episode:
+• Nvidia launches RTX Spark, entering the personal computer market — MIT Tech Review: The Download
+• China has approved the world's first invasive brain-computer chip — MIT Tech Review: The Download
+• We checked. Again. Still no bubble. — Exponential View (Azeem Azhar)
+• Import AI 459: AI economy growing 2,600% in quality-adjusted terms, invisible in GDP — Import AI (Jack Clark)
+• The Creep of Politicization — Don Moynihan (state capacity)
+• How Trump put the Senate into play — The Argument
+• James Talarico has an obligation to win — Slow Boring (Matt Yglesias)
+• Seventeen thoughts on Graham Platner — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-01.mp3" length="8792811" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-01.mp3#8792811</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — May 31, 2026</title>
       <description>Today: Azeem Azhar at Exponential View explains why Wall Street analysts keep systematically underestimating AI — they're using mean-reversion models on an exponential curve, with Micron's earnings forecast jumping from eighteen dollars to fifty-eight dollars per share in five months as Exhibit A. In the grab bag: Pope Leo XIV's landmark AI encyclical 'Magnifica Humanitas' argues civilization should be measured by whether we see a face rather than a function, with a sharp counterpoint from Yuval Levin that the document undersizes the technology. Plus Noah Smith connects AI's rapid rise to factory farming via I.J. Good's Meta-Golden Rule: treat your inferiors as you'd want to be treated by your superiors.
