@@ -22,7 +22,41 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 01 Jun 2026 14:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:07:42 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 04, 2026</title>
+      <description>In tech, labor economist Kathryn Anne Edwards makes a counterintuitive case that AI job panic is overblown and classist, while Azeem Azhar explains why the shift to metered token billing could actually expand the AI market. In government, Trump's new AI executive order cuts the pre-deployment review window to thirty days, as states from Illinois to Maryland build their own AI governance infrastructure. In the grab bag, a detailed look at why reopening the Strait of Hormuz could take six months even after a ceasefire — plus a debate over whether AI can cure cancer.
+
+In this episode:
+• An economist's case against the AI jobs-pocalypse — Platformer (Casey Newton)
+• You're paying for tokens. Now what? — Exponential View (Azeem Azhar)
+• How courts are coping with a flood of AI-generated lawsuits — MIT Tech Review: The Download
+• A new AI executive order — WaPo AI &amp; Tech Brief
+• 5 key points in Trump's new AI order — MIT Tech Review: The Download
+• Anthropomorphic AI terms create gaps in accountability — Brookings TechTank
+• Illinois hires its first chief AI officer — StateScoop
+• Maryland's new AI Innovation Lab to help state agencies adopt, experiment with tech — StateScoop
+• A Beginner's Guide to Reopening the Strait — The Dispatch
+• Can AI Cure Cancer? — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>In tech, labor economist Kathryn Anne Edwards makes a counterintuitive case that AI job panic is overblown and classist, while Azeem Azhar explains why the shift to metered token billing could actually expand the AI market. In government, Trump's new AI executive order cuts the pre-deployment review window to thirty days, as states from Illinois to Maryland build their own AI governance infrastructure. In the grab bag, a detailed look at why reopening the Strait of Hormuz could take six months even after a ceasefire — plus a debate over whether AI can cure cancer.
+
+In this episode:
+• An economist's case against the AI jobs-pocalypse — Platformer (Casey Newton)
+• You're paying for tokens. Now what? — Exponential View (Azeem Azhar)
+• How courts are coping with a flood of AI-generated lawsuits — MIT Tech Review: The Download
+• A new AI executive order — WaPo AI &amp; Tech Brief
+• 5 key points in Trump's new AI order — MIT Tech Review: The Download
+• Anthropomorphic AI terms create gaps in accountability — Brookings TechTank
+• Illinois hires its first chief AI officer — StateScoop
+• Maryland's new AI Innovation Lab to help state agencies adopt, experiment with tech — StateScoop
+• A Beginner's Guide to Reopening the Strait — The Dispatch
+• Can AI Cure Cancer? — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-04.mp3" length="6712624" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-04.mp3#6712624</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 01, 2026</title>
       <description>Today's tech segment covers Nvidia's RTX Spark — a personal computer chip built from the ground up for AI agents — plus China becoming the first country to approve an invasive brain-computer interface for general use, and new research revealing that the AI economy is growing at 2,600% in quality-adjusted real terms but nearly invisible in GDP statistics. On the government front, Don Moynihan maps how five overlapping politicization tactics are systematically capturing American science policy under OMB's Russ Vought. In the grab bag, Trump's polling collapse has put the Senate legitimately in play for Democrats, and Matt Yglesias makes a sharp case about why ideology — not scandal — drives how voters judge candidates like Platner and Talarico.
