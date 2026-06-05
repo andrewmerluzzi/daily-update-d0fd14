@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 04 Jun 2026 14:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:09:09 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 05, 2026</title>
+      <description>Tech covers a low-tech Instagram takeover using Meta's AI customer support agent, Cloudflare's finding that bot traffic now surpasses human web traffic, and Anthropic's call for a global AI slowdown. AI in government covers OpenAI's new national regulatory blueprint and Sam Altman's Capitol Hill visit, a federal push to fund predictive analytics in child welfare, and a California city's historic ballot-measure ban on data centers. The grab bag covers federal regulatory dark matter and the bipartisan GOOD Act, plus a joint open letter from the CEOs of OpenAI, Anthropic, and DeepMind urging Congress to require biosecurity screening for synthetic DNA orders.
+
+In this episode:
+• The Meta hack shows there's more to AI security than Mythos — MIT Technology Review: The Download
+• Bot web traffic has overtaken human web traffic — MIT Technology Review: The Download
+• Anthropic has called for a global slowdown in AI development — MIT Technology Review: The Download
+• AI &amp; Tech Brief: AI stakes out The Hill — WaPo AI &amp; Tech Brief
+• HHS wants states to use more predictive analytics in child welfare — Google Alert: AI (route-fifty.com)
+• These SoCal Residents Are Nation's First to Ban Data Centers — Google Alert: AI (govtech.com)
+• Shining a Light on Regulatory Dark Matter — The Dispatch
+• AI Executives Sign Open Letter on Bioweapons — The Dispatch</description>
+      <itunes:summary>Tech covers a low-tech Instagram takeover using Meta's AI customer support agent, Cloudflare's finding that bot traffic now surpasses human web traffic, and Anthropic's call for a global AI slowdown. AI in government covers OpenAI's new national regulatory blueprint and Sam Altman's Capitol Hill visit, a federal push to fund predictive analytics in child welfare, and a California city's historic ballot-measure ban on data centers. The grab bag covers federal regulatory dark matter and the bipartisan GOOD Act, plus a joint open letter from the CEOs of OpenAI, Anthropic, and DeepMind urging Congress to require biosecurity screening for synthetic DNA orders.
+
+In this episode:
+• The Meta hack shows there's more to AI security than Mythos — MIT Technology Review: The Download
+• Bot web traffic has overtaken human web traffic — MIT Technology Review: The Download
+• Anthropic has called for a global slowdown in AI development — MIT Technology Review: The Download
+• AI &amp; Tech Brief: AI stakes out The Hill — WaPo AI &amp; Tech Brief
+• HHS wants states to use more predictive analytics in child welfare — Google Alert: AI (route-fifty.com)
+• These SoCal Residents Are Nation's First to Ban Data Centers — Google Alert: AI (govtech.com)
+• Shining a Light on Regulatory Dark Matter — The Dispatch
+• AI Executives Sign Open Letter on Bioweapons — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-05.mp3" length="7025467" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-05.mp3#7025467</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 04, 2026</title>
       <description>In tech, labor economist Kathryn Anne Edwards makes a counterintuitive case that AI job panic is overblown and classist, while Azeem Azhar explains why the shift to metered token billing could actually expand the AI market. In government, Trump's new AI executive order cuts the pre-deployment review window to thirty days, as states from Illinois to Maryland build their own AI governance infrastructure. In the grab bag, a detailed look at why reopening the Strait of Hormuz could take six months even after a ceasefire — plus a debate over whether AI can cure cancer.
