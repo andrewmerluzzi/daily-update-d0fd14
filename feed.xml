@@ -22,7 +22,25 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 05 Jun 2026 14:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 14:05:45 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 06, 2026</title>
+      <description>In AI in government: the U.S. Tech Force initiative to pull one thousand technologists into federal service, the merit-based hiring reforms OPM is piloting, and an AI model so capable at finding software vulnerabilities that Anthropic won't release it publicly. In the grab bag, Noah Smith makes the case for European trade barriers against Chinese manufactured goods — grounded in defense dependency, OECD data on subsidies, and a counterintuitive argument that it might actually benefit ordinary Chinese people. Tech is light today with nothing making the cut.
+
+In this episode:
+• An interview with Scott Kupor, director of OPM, on the U.S. Tech Force initiative — WaPo AI &amp; Tech Brief
+• Why Europe should put up trade barriers against Chinese goods — Noahpinion (Noah Smith)</description>
+      <itunes:summary>In AI in government: the U.S. Tech Force initiative to pull one thousand technologists into federal service, the merit-based hiring reforms OPM is piloting, and an AI model so capable at finding software vulnerabilities that Anthropic won't release it publicly. In the grab bag, Noah Smith makes the case for European trade barriers against Chinese manufactured goods — grounded in defense dependency, OECD data on subsidies, and a counterintuitive argument that it might actually benefit ordinary Chinese people. Tech is light today with nothing making the cut.
+
+In this episode:
+• An interview with Scott Kupor, director of OPM, on the U.S. Tech Force initiative — WaPo AI &amp; Tech Brief
+• Why Europe should put up trade barriers against Chinese goods — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-06.mp3" length="6133646" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-06.mp3#6133646</guid>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 05, 2026</title>
       <description>Tech covers a low-tech Instagram takeover using Meta's AI customer support agent, Cloudflare's finding that bot traffic now surpasses human web traffic, and Anthropic's call for a global AI slowdown. AI in government covers OpenAI's new national regulatory blueprint and Sam Altman's Capitol Hill visit, a federal push to fund predictive analytics in child welfare, and a California city's historic ballot-measure ban on data centers. The grab bag covers federal regulatory dark matter and the bipartisan GOOD Act, plus a joint open letter from the CEOs of OpenAI, Anthropic, and DeepMind urging Congress to require biosecurity screening for synthetic DNA orders.
