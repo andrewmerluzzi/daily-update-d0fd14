@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 06 Jun 2026 14:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 14:06:05 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 07, 2026</title>
+      <description>In tech, Azeem Azhar unpacks the agentic coding paradox: more apps are shipping than ever, but a smaller proportion clear any quality bar — a pattern that echoes the early days of blogging. In AI in government, a new Microsoft report finds a nearly two-to-one urban-rural gap in generative AI adoption, while a bipartisan bill in Congress would freeze state-level AI regulation for three years. In the grab bag, a scholar pushes back on Pope Leo the Fourteenth's AI encyclical, arguing it underestimates what language itself means for human dignity.
+
+In this episode:
+• AI is making firms faster... and markets more mediocre — Exponential View (Azeem Azhar)
+• Report shows steady, yet uneven, AI adoption across US — Route Fifty
+• Lawmakers propose AI framework that would preempt state laws for 3 years — Route Fifty
+• What the Pope's Encyclical Misses About Language — The Dispatch</description>
+      <itunes:summary>In tech, Azeem Azhar unpacks the agentic coding paradox: more apps are shipping than ever, but a smaller proportion clear any quality bar — a pattern that echoes the early days of blogging. In AI in government, a new Microsoft report finds a nearly two-to-one urban-rural gap in generative AI adoption, while a bipartisan bill in Congress would freeze state-level AI regulation for three years. In the grab bag, a scholar pushes back on Pope Leo the Fourteenth's AI encyclical, arguing it underestimates what language itself means for human dignity.
+
+In this episode:
+• AI is making firms faster... and markets more mediocre — Exponential View (Azeem Azhar)
+• Report shows steady, yet uneven, AI adoption across US — Route Fifty
+• Lawmakers propose AI framework that would preempt state laws for 3 years — Route Fifty
+• What the Pope's Encyclical Misses About Language — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-07.mp3" length="5936476" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-07.mp3#5936476</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 06, 2026</title>
       <description>In AI in government: the U.S. Tech Force initiative to pull one thousand technologists into federal service, the merit-based hiring reforms OPM is piloting, and an AI model so capable at finding software vulnerabilities that Anthropic won't release it publicly. In the grab bag, Noah Smith makes the case for European trade barriers against Chinese manufactured goods — grounded in defense dependency, OECD data on subsidies, and a counterintuitive argument that it might actually benefit ordinary Chinese people. Tech is light today with nothing making the cut.
