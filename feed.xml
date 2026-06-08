@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 07 Jun 2026 14:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:09:52 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 8, 2026</title>
+      <description>In tech: Chinese users catalog their AI chatbots' most embarrassing failures, and Jack Clark publishes firsthand data from Anthropic suggesting recursive self-improvement has already begun — with an eightfold increase in code output in twenty twenty-six. In AI in government: a study shows that a simple Census-data trick cut rental assistance processing times by two weeks and boosted approval rates by fifteen points. In the grab bag: why Western militaries may already be obsolete in a drone-saturated world, and a blowout May jobs report that spooked markets.
+
+In this episode:
+• ChinAI #362: Artificial Challenged Intelligence — real user stories — ChinAI (Jeff Ding)
+• Import AI 460: RSI data from Anthropic — 8x code increase in 2026 — Import AI (Jack Clark)
+• Import AI 460: RL-based quadcopter racing beats champion human pilot — Import AI (Jack Clark)
+• Google pays SpaceX $30 billion for AI computing; OpenAI plans super app before IPO — MIT Tech Review: The Download
+• How automation reduced administrative burdens and increased access to Emergency Rental Assistance — Don Moynihan (state capacity)
+• Roundup #83: Western militaries are obsolete, and Trump is making it worse — Noahpinion (Noah Smith)
+• BLS Reports Strong Job Numbers — 172,000 nonfarm payrolls in May vs. 80,000 forecast — The Dispatch</description>
+      <itunes:summary>In tech: Chinese users catalog their AI chatbots' most embarrassing failures, and Jack Clark publishes firsthand data from Anthropic suggesting recursive self-improvement has already begun — with an eightfold increase in code output in twenty twenty-six. In AI in government: a study shows that a simple Census-data trick cut rental assistance processing times by two weeks and boosted approval rates by fifteen points. In the grab bag: why Western militaries may already be obsolete in a drone-saturated world, and a blowout May jobs report that spooked markets.
+
+In this episode:
+• ChinAI #362: Artificial Challenged Intelligence — real user stories — ChinAI (Jeff Ding)
+• Import AI 460: RSI data from Anthropic — 8x code increase in 2026 — Import AI (Jack Clark)
+• Import AI 460: RL-based quadcopter racing beats champion human pilot — Import AI (Jack Clark)
+• Google pays SpaceX $30 billion for AI computing; OpenAI plans super app before IPO — MIT Tech Review: The Download
+• How automation reduced administrative burdens and increased access to Emergency Rental Assistance — Don Moynihan (state capacity)
+• Roundup #83: Western militaries are obsolete, and Trump is making it worse — Noahpinion (Noah Smith)
+• BLS Reports Strong Job Numbers — 172,000 nonfarm payrolls in May vs. 80,000 forecast — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-08.mp3" length="7353357" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-08.mp3#7353357</guid>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 07, 2026</title>
       <description>In tech, Azeem Azhar unpacks the agentic coding paradox: more apps are shipping than ever, but a smaller proportion clear any quality bar — a pattern that echoes the early days of blogging. In AI in government, a new Microsoft report finds a nearly two-to-one urban-rural gap in generative AI adoption, while a bipartisan bill in Congress would freeze state-level AI regulation for three years. In the grab bag, a scholar pushes back on Pope Leo the Fourteenth's AI encyclical, arguing it underestimates what language itself means for human dignity.
