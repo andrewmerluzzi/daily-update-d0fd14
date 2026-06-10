@@ -22,7 +22,39 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 09 Jun 2026 14:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:10:08 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — June 10, 2026</title>
+      <description>On tech: Anthropic releases Claude Fable, the first publicly available Mythos-class AI model capable of autonomous cyberattacks, while a Brookings researcher argues the 'messy middle' of AI job disruption will hit white-collar workers — not blue-collar — hardest. In AI in government: Illinois passes a landmark bipartisan AI safety law requiring annual third-party audits of frontier models, and Senator Warren pushes for Trump officials to testify on AI policy. In the grab bag: the Iran war has permanently repriced energy risk through the Strait of Hormuz, health insurers are scapegoats while providers drive actual healthcare costs, and voters rank AI nearly last among political issues.
+
+In this episode:
+• How to help knowledge workers who lose their jobs to AI — Platformer (Casey Newton)
+• AI &amp; Tech Brief: Apple's AI Moat — WaPo AI &amp; Tech Brief
+• The Download: Mythos release + AI jobs reality check — MIT Tech Review: The Download
+• Anthropic Releases First Mythos-Class AI Model — The Dispatch Morning
+• Senator seeks admin leadership to testify on AI policy — Route Fifty (Google Alert)
+• Illinois' Landmark AI Law Sets a New Standard for Oversight — GovTech (Google Alert)
+• Energy's New Risk Premium Is Here To Stay — The Dispatch (Dispatch Energy)
+• Insurers aren't the main villain of the U.S. health care system — Noahpinion (Noah Smith)
+• The biggest issue in American politics doesn't exist yet — The Argument</description>
+      <itunes:summary>On tech: Anthropic releases Claude Fable, the first publicly available Mythos-class AI model capable of autonomous cyberattacks, while a Brookings researcher argues the 'messy middle' of AI job disruption will hit white-collar workers — not blue-collar — hardest. In AI in government: Illinois passes a landmark bipartisan AI safety law requiring annual third-party audits of frontier models, and Senator Warren pushes for Trump officials to testify on AI policy. In the grab bag: the Iran war has permanently repriced energy risk through the Strait of Hormuz, health insurers are scapegoats while providers drive actual healthcare costs, and voters rank AI nearly last among political issues.
+
+In this episode:
+• How to help knowledge workers who lose their jobs to AI — Platformer (Casey Newton)
+• AI &amp; Tech Brief: Apple's AI Moat — WaPo AI &amp; Tech Brief
+• The Download: Mythos release + AI jobs reality check — MIT Tech Review: The Download
+• Anthropic Releases First Mythos-Class AI Model — The Dispatch Morning
+• Senator seeks admin leadership to testify on AI policy — Route Fifty (Google Alert)
+• Illinois' Landmark AI Law Sets a New Standard for Oversight — GovTech (Google Alert)
+• Energy's New Risk Premium Is Here To Stay — The Dispatch (Dispatch Energy)
+• Insurers aren't the main villain of the U.S. health care system — Noahpinion (Noah Smith)
+• The biggest issue in American politics doesn't exist yet — The Argument</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-10.mp3" length="7407275" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-06-10.mp3#7407275</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 9, 2026</title>
       <description>In tech, Harvard biologist David Sinclair is launching human trials of an oral reprogramming drug aimed at ten-year biological age reversal, while MIT Technology Review's midyear AI assessment surfaces striking data on deepfake harms and a growing anti-AI backlash. In government, Trump's AI executive order arrived voluntary and industry-friendly, the White House is fracturing over sovereign wealth fund proposals, and Georgia is building state-level AI governance infrastructure before broadly deploying the technology. In the grab bag, Matt Yglesias argues the AI consciousness debate skips the hard philosophical work, and the New World screwworm — a flesh-eating parasite — has spread beyond Texas into New Mexico.
