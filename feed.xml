@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:20:46 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 03, 2026</title>
+      <description>In tech, a landmark Oxford-Stanford-LSE study finds AI reliably out-persuades expert humans — and the same week, the government began treating frontier models like export-controlled weapons, suspending Anthropic's Fable and restricting OpenAI's next flagship to approved partners. In AI in government, San Jose trained one thousand city employees to build their own AI tools using a bottom-up approach, while the Nuclear Regulatory Commission used AI to cut one licensing category from four years down to nine months. In the grab bag: American math performance has quietly erased three decades of gains through the same bad-pedagogy story as the reading crisis, and the first AI super PAC — backed by OpenAI's Greg Brockman and Andreessen Horowitz — has crashed after less than a year.
+
+In this episode:
+• AI can decisively out-persuade humans — Import AI (Jack Clark)
+• After the Anthropic shutdown — MIT Tech Review: The Download
+• AI agents are not your coworkers — MIT Tech Review: The Download
+• How San José trained 1,000 city employees to build their own AI tools — Google Alert: AI (statescoop.com)
+• AI has helped slash nuclear licensing review times, NRC official says — Google Alert: AI (govexec.com)
+• The great American math collapse — The Argument
+• The spectacular failure of the first AI Super PAC — The Argument</description>
+      <itunes:summary>In tech, a landmark Oxford-Stanford-LSE study finds AI reliably out-persuades expert humans — and the same week, the government began treating frontier models like export-controlled weapons, suspending Anthropic's Fable and restricting OpenAI's next flagship to approved partners. In AI in government, San Jose trained one thousand city employees to build their own AI tools using a bottom-up approach, while the Nuclear Regulatory Commission used AI to cut one licensing category from four years down to nine months. In the grab bag: American math performance has quietly erased three decades of gains through the same bad-pedagogy story as the reading crisis, and the first AI super PAC — backed by OpenAI's Greg Brockman and Andreessen Horowitz — has crashed after less than a year.
+
+In this episode:
+• AI can decisively out-persuade humans — Import AI (Jack Clark)
+• After the Anthropic shutdown — MIT Tech Review: The Download
+• AI agents are not your coworkers — MIT Tech Review: The Download
+• How San José trained 1,000 city employees to build their own AI tools — Google Alert: AI (statescoop.com)
+• AI has helped slash nuclear licensing review times, NRC official says — Google Alert: AI (govexec.com)
+• The great American math collapse — The Argument
+• The spectacular failure of the first AI Super PAC — The Argument</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-03.mp3" length="7199758" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-03.mp3#7199758</guid>
+      <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — June 17, 2026</title>
       <description>In tech, a startup founder makes the case that hiring junior engineers has become economically unsustainable, while a new experiment shows AI councils filter out most of their best novel ideas. On the government front, a federal bill aims to freeze all state AI regulation for three years — and New York's political culture has shifted so fast that AI use has gone from politically scandalous to unremarkable in just twelve months. In the grab bag, Noah Smith argues the U.S. genuinely lost the Iran war, with Iran emerging in control of the Strait of Hormuz and in a dramatically stronger strategic position than before the conflict.
