@@ -22,7 +22,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 03 Jul 2026 20:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:02:35 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 04, 2026</title>
+      <description>A quiet Fourth of July in the feeds: nothing notable in tech or government A-I today. The show belongs to Noah Smith's Noahpinion essay 'The American age was the human age' — a sweeping July fourth piece that measures America at two hundred and fifty against the great dynasties of history, diagnoses the structural sclerosis behind its declining patriotism, and ends with a larger question about whether the era of humanity as the uncontested main actor on Earth is itself drawing to a close.
+
+In this episode:
+• The American age was the human age — Noahpinion (Noah Smith)</description>
+      <itunes:summary>A quiet Fourth of July in the feeds: nothing notable in tech or government A-I today. The show belongs to Noah Smith's Noahpinion essay 'The American age was the human age' — a sweeping July fourth piece that measures America at two hundred and fifty against the great dynasties of history, diagnoses the structural sclerosis behind its declining patriotism, and ends with a larger question about whether the era of humanity as the uncontested main actor on Earth is itself drawing to a close.
+
+In this episode:
+• The American age was the human age — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-04.mp3" length="3510537" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-04.mp3#3510537</guid>
+      <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>4:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 03, 2026</title>
       <description>In tech, a landmark Oxford-Stanford-LSE study finds AI reliably out-persuades expert humans — and the same week, the government began treating frontier models like export-controlled weapons, suspending Anthropic's Fable and restricting OpenAI's next flagship to approved partners. In AI in government, San Jose trained one thousand city employees to build their own AI tools using a bottom-up approach, while the Nuclear Regulatory Commission used AI to cut one licensing category from four years down to nine months. In the grab bag: American math performance has quietly erased three decades of gains through the same bad-pedagogy story as the reading crisis, and the first AI super PAC — backed by OpenAI's Greg Brockman and Andreessen Horowitz — has crashed after less than a year.
