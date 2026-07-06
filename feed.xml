@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 05 Jul 2026 12:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:13:36 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 06, 2026</title>
+      <description>Tech covers Fable's GPU kernel benchmark win and accelerating AI economic automation benchmarks, plus the chip-boom human story of South Korea's suddenly very eligible semiconductor workers. The AI in government segment looks at Israeli battlefield AI that flagged eight hundred fifty thousand targets and China's new rules forcing ByteDance and Alibaba to disable humanlike AI features. The grab bag digs into Trump's twenty-one thousand policy-correlated trades, a soft June jobs report that missed the World Cup, and Noah Smith's case that China's GDP actually shrank in twenty twenty-two despite official figures.
+
+In this episode:
+• Import AI 464: Fable writes GPU kernels; AI automation; and analog computation — Import AI (Jack Clark)
+• South Korea's hottest new bachelors are chip workers — MIT Tech Review: The Download
+• Anthropic wants to develop its own drugs — MIT Tech Review: The Download
+• An Israeli battlefield system identified 850,000 targets in Gaza, Lebanon — MIT Tech Review: The Download
+• Chinese tech giants are disabling humanlike AI due to new regulations — MIT Tech Review: The Download
+• Trump's Presidential Payday — More Details on Trump's Trades — The Dispatch
+• Report Shows Sharp Hiring Decline in June — The Dispatch
+• No, China did not manage to avoid a crash — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Tech covers Fable's GPU kernel benchmark win and accelerating AI economic automation benchmarks, plus the chip-boom human story of South Korea's suddenly very eligible semiconductor workers. The AI in government segment looks at Israeli battlefield AI that flagged eight hundred fifty thousand targets and China's new rules forcing ByteDance and Alibaba to disable humanlike AI features. The grab bag digs into Trump's twenty-one thousand policy-correlated trades, a soft June jobs report that missed the World Cup, and Noah Smith's case that China's GDP actually shrank in twenty twenty-two despite official figures.
+
+In this episode:
+• Import AI 464: Fable writes GPU kernels; AI automation; and analog computation — Import AI (Jack Clark)
+• South Korea's hottest new bachelors are chip workers — MIT Tech Review: The Download
+• Anthropic wants to develop its own drugs — MIT Tech Review: The Download
+• An Israeli battlefield system identified 850,000 targets in Gaza, Lebanon — MIT Tech Review: The Download
+• Chinese tech giants are disabling humanlike AI due to new regulations — MIT Tech Review: The Download
+• Trump's Presidential Payday — More Details on Trump's Trades — The Dispatch
+• Report Shows Sharp Hiring Decline in June — The Dispatch
+• No, China did not manage to avoid a crash — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-06.mp3" length="6669993" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-06.mp3#6669993</guid>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 05, 2026</title>
       <description>In tech, Azeem Azhar's Exponential View makes the counterintuitive case that AI is pushing high-intensity firms to hire more people — not fewer — through three mechanisms: complementarity, supervision, and demand expansion. It also flags a quiet disclosure gap around Chinese AI model usage in US patents, and tells the cautionary tale of the screwworm's return. AI in government is quiet today. In the grab bag, Benjamin Franklin's checkbook and what it reveals about practical American pluralism on the two hundred fiftieth birthday weekend.
