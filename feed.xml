@@ -22,7 +22,39 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 09 Jul 2026 14:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:20:16 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 11, 2026</title>
+      <description>OpenAI drops GPT-5.6 and launches a new office super app on the same day its head of applications departs, while Anthropic researchers reveal a hidden 'thinking space' inside Claude that shows what the model considers before it speaks. In government, Illinois becomes the first state to require independent third-party AI safety audits, and a permitting loophole is letting data center developers bypass environmental review in Texas. In the grab bag: Bitcoin's fifty-percent crash is forcing Michael Saylor — the 'never sell' evangelist — to finally sell, and polling data reveals a striking gap between what Americans actually think about science and what MAGA policy is doing to it.
+
+In this episode:
+• Anthropic found a hidden space where Claude puzzles over concepts — MIT Tech Review: The Download
+• OpenAI's big launch — and bigger departure — Platformer (Casey Newton)
+• OpenAI unveiled its long-awaited 'super app' ChatGPT Work — MIT Tech Review: The Download
+• Tencent is leading a deal to unwind Meta's $2 billion Manus acquisition — MIT Tech Review: The Download
+• OpenAI and Google have sold AI models to blacklisted China groups — MIT Tech Review: The Download
+• Illinois governor signs major AI safety law — Google Alert: AI (route-fifty.com)
+• This permit, common for dry cleaners, is now being used to build AI power plants — Google Alert: AI (route-fifty.com)
+• Bitcoin's Slump Forces a Crypto Booster's Retreat — The Dispatch
+• MAGA's attack on science is even worse than it looks — Noahpinion (Noah Smith)</description>
+      <itunes:summary>OpenAI drops GPT-5.6 and launches a new office super app on the same day its head of applications departs, while Anthropic researchers reveal a hidden 'thinking space' inside Claude that shows what the model considers before it speaks. In government, Illinois becomes the first state to require independent third-party AI safety audits, and a permitting loophole is letting data center developers bypass environmental review in Texas. In the grab bag: Bitcoin's fifty-percent crash is forcing Michael Saylor — the 'never sell' evangelist — to finally sell, and polling data reveals a striking gap between what Americans actually think about science and what MAGA policy is doing to it.
+
+In this episode:
+• Anthropic found a hidden space where Claude puzzles over concepts — MIT Tech Review: The Download
+• OpenAI's big launch — and bigger departure — Platformer (Casey Newton)
+• OpenAI unveiled its long-awaited 'super app' ChatGPT Work — MIT Tech Review: The Download
+• Tencent is leading a deal to unwind Meta's $2 billion Manus acquisition — MIT Tech Review: The Download
+• OpenAI and Google have sold AI models to blacklisted China groups — MIT Tech Review: The Download
+• Illinois governor signs major AI safety law — Google Alert: AI (route-fifty.com)
+• This permit, common for dry cleaners, is now being used to build AI power plants — Google Alert: AI (route-fifty.com)
+• Bitcoin's Slump Forces a Crypto Booster's Retreat — The Dispatch
+• MAGA's attack on science is even worse than it looks — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-11.mp3" length="6824846" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-11.mp3#6824846</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 09, 2026</title>
       <description>In tech, a leaked Treasury report privately compares the AI market to the dot-com bubble even as the administration publicly champions AI, and Casey Newton shares an early look at Raycast's Glaze — a vibe-coding tool making Mac app development genuinely accessible. On AI in government, Illinois becomes the first state to require independent audits of frontier AI models, while a major civic-tech retrospective surfaces hard lessons about what a decade of digital government work actually built. In the grab bag, Dispatch Energy explains why gas prices are still painful despite crude oil returning to pre-crisis levels, and Matt Yglesias tells Baltimore's improbable — and replicable — crime-fighting success story.
