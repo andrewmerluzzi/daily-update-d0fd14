@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 11 Jul 2026 16:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:06:21 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 12, 2026</title>
+      <description>Tech: Azeem Azhar breaks down the staggering GPU compute contracts between SpaceX, Anthropic, and Google — and explains why AI is becoming a nation-state infrastructure issue with real geopolitical chokepoints. AI in government was quiet today. In the grab bag, Noah Smith argues that class in America has always been about future potential rather than present circumstances, and The Dispatch surfaces the surprisingly Jewish origin of the five-day work week.
+
+In this episode:
+• GPU demand isn't softening — SpaceX contract data — Exponential View (Azeem Azhar)
+• AI as national infrastructure with geopolitical chokepoints — Exponential View (Azeem Azhar)
+• I have never been working class — Noahpinion (Noah Smith)
+• How Jewish rabbis helped create the five-day work week — The Dispatch</description>
+      <itunes:summary>Tech: Azeem Azhar breaks down the staggering GPU compute contracts between SpaceX, Anthropic, and Google — and explains why AI is becoming a nation-state infrastructure issue with real geopolitical chokepoints. AI in government was quiet today. In the grab bag, Noah Smith argues that class in America has always been about future potential rather than present circumstances, and The Dispatch surfaces the surprisingly Jewish origin of the five-day work week.
+
+In this episode:
+• GPU demand isn't softening — SpaceX contract data — Exponential View (Azeem Azhar)
+• AI as national infrastructure with geopolitical chokepoints — Exponential View (Azeem Azhar)
+• I have never been working class — Noahpinion (Noah Smith)
+• How Jewish rabbis helped create the five-day work week — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-12.mp3" length="4142491" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-12.mp3#4142491</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>5:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 11, 2026</title>
       <description>OpenAI drops GPT-5.6 and launches a new office super app on the same day its head of applications departs, while Anthropic researchers reveal a hidden 'thinking space' inside Claude that shows what the model considers before it speaks. In government, Illinois becomes the first state to require independent third-party AI safety audits, and a permitting loophole is letting data center developers bypass environmental review in Texas. In the grab bag: Bitcoin's fifty-percent crash is forcing Michael Saylor — the 'never sell' evangelist — to finally sell, and polling data reveals a striking gap between what Americans actually think about science and what MAGA policy is doing to it.
