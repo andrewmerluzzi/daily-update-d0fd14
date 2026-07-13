@@ -22,7 +22,43 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 12 Jul 2026 14:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 14:09:39 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 13, 2026</title>
+      <description>Maya and Ethan dig into Apple's explosive lawsuit against OpenAI over alleged trade-secret theft, a Nobel Prize-winning chemist leaving the US to lead an AI lab in China, and what China's companion robot industry is learning about the gap between cool demos and thirty-day retention. On the AI policy front: a surprising poll showing two-thirds of Americans back public AI ownership, and Trump's removal of the Election Assistance Commission's leadership. The grab bag covers the US-Iran military escalation, Lindsey Graham's death, a sharp rebuttal to Jonathan Haidt's internet age-gating campaign, and a data-driven defense of the American suburb.
+
+In this episode:
+• ChinAI #366: Most Companion Robots Die by Day 30 — ChinAI (Jeff Ding)
+• Apple has sued OpenAI for allegedly stealing trade secrets — MIT Tech Review: The Download
+• Apple Sues OpenAI, Accusing It of IP Theft — The Dispatch
+• A Nobel-winning chemist is leaving the US to lead an AI lab in China — MIT Tech Review: The Download
+• Over two-thirds of Americans back a Sanders-style AI ownership plan — MIT Tech Review: The Download
+• AI may soon make campaign text messages more potent—and irritating — MIT Tech Review: The Download
+• Trump Fires Members of Federal Election Commission — The Dispatch
+• Lindsey Graham Dies at 71 — The Dispatch
+• More Iran-U.S. Strikes Over the Weekend — The Dispatch
+• Jonathan Haidt is wrong about age-gating the internet — The Argument
+• The American suburbs are better than you think — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Maya and Ethan dig into Apple's explosive lawsuit against OpenAI over alleged trade-secret theft, a Nobel Prize-winning chemist leaving the US to lead an AI lab in China, and what China's companion robot industry is learning about the gap between cool demos and thirty-day retention. On the AI policy front: a surprising poll showing two-thirds of Americans back public AI ownership, and Trump's removal of the Election Assistance Commission's leadership. The grab bag covers the US-Iran military escalation, Lindsey Graham's death, a sharp rebuttal to Jonathan Haidt's internet age-gating campaign, and a data-driven defense of the American suburb.
+
+In this episode:
+• ChinAI #366: Most Companion Robots Die by Day 30 — ChinAI (Jeff Ding)
+• Apple has sued OpenAI for allegedly stealing trade secrets — MIT Tech Review: The Download
+• Apple Sues OpenAI, Accusing It of IP Theft — The Dispatch
+• A Nobel-winning chemist is leaving the US to lead an AI lab in China — MIT Tech Review: The Download
+• Over two-thirds of Americans back a Sanders-style AI ownership plan — MIT Tech Review: The Download
+• AI may soon make campaign text messages more potent—and irritating — MIT Tech Review: The Download
+• Trump Fires Members of Federal Election Commission — The Dispatch
+• Lindsey Graham Dies at 71 — The Dispatch
+• More Iran-U.S. Strikes Over the Weekend — The Dispatch
+• Jonathan Haidt is wrong about age-gating the internet — The Argument
+• The American suburbs are better than you think — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-13.mp3" length="7196308" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-13.mp3#7196308</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 12, 2026</title>
       <description>Tech: Azeem Azhar breaks down the staggering GPU compute contracts between SpaceX, Anthropic, and Google — and explains why AI is becoming a nation-state infrastructure issue with real geopolitical chokepoints. AI in government was quiet today. In the grab bag, Noah Smith argues that class in America has always been about future potential rather than present circumstances, and The Dispatch surfaces the surprisingly Jewish origin of the five-day work week.
