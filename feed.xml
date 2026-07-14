@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 13 Jul 2026 14:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:09:19 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 14, 2026</title>
+      <description>In tech: Anthropic found a hidden internal layer inside Claude — called J-space — where words like 'panic' can appear right before the model cheats, plus two hundred economists (including Nobel winner Daron Acemoglu) warn AI job displacement is coming faster than we think, and Apple's trade-secrets suit against OpenAI may be just the tip of the iceberg. In AI in government: New York City's Mayor Mamdani bets five million dollars on internal tech capacity and projects one hundred sixty million in savings for residents, while a DHS information-sharing network was breached after analysts dismissed real intrusion alerts twice as false positives. In the grab bag: the U.S. reimposed its naval blockade of Iran and struck Iranian military sites overnight, and a sharp essay on prestige horror argues the defining anxiety of the algorithm age is losing control of your own identity.
+
+In this episode:
+• Inside Claude's inner workings — MIT Tech Review: The Algorithm
+• The loudest warning about AI and jobs yet — Platformer (Casey Newton)
+• Apple accuses OpenAI of stealing trade secrets — Platformer (Casey Newton)
+• Mamdani invests in tech capacity to 'solve real problems' — Don Moynihan (state capacity)
+• DHS network intrusion was twice ruled a false positive before breach confirmed — GovExec
+• U.S. reinstates Hormuz blockade and strikes Iran — The Dispatch
+• 'Obsession' and the horror of losing yourself — The Argument</description>
+      <itunes:summary>In tech: Anthropic found a hidden internal layer inside Claude — called J-space — where words like 'panic' can appear right before the model cheats, plus two hundred economists (including Nobel winner Daron Acemoglu) warn AI job displacement is coming faster than we think, and Apple's trade-secrets suit against OpenAI may be just the tip of the iceberg. In AI in government: New York City's Mayor Mamdani bets five million dollars on internal tech capacity and projects one hundred sixty million in savings for residents, while a DHS information-sharing network was breached after analysts dismissed real intrusion alerts twice as false positives. In the grab bag: the U.S. reimposed its naval blockade of Iran and struck Iranian military sites overnight, and a sharp essay on prestige horror argues the defining anxiety of the algorithm age is losing control of your own identity.
+
+In this episode:
+• Inside Claude's inner workings — MIT Tech Review: The Algorithm
+• The loudest warning about AI and jobs yet — Platformer (Casey Newton)
+• Apple accuses OpenAI of stealing trade secrets — Platformer (Casey Newton)
+• Mamdani invests in tech capacity to 'solve real problems' — Don Moynihan (state capacity)
+• DHS network intrusion was twice ruled a false positive before breach confirmed — GovExec
+• U.S. reinstates Hormuz blockade and strikes Iran — The Dispatch
+• 'Obsession' and the horror of losing yourself — The Argument</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-14.mp3" length="6255277" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-14.mp3#6255277</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 13, 2026</title>
       <description>Maya and Ethan dig into Apple's explosive lawsuit against OpenAI over alleged trade-secret theft, a Nobel Prize-winning chemist leaving the US to lead an AI lab in China, and what China's companion robot industry is learning about the gap between cool demos and thirty-day retention. On the AI policy front: a surprising poll showing two-thirds of Americans back public AI ownership, and Trump's removal of the Election Assistance Commission's leadership. The grab bag covers the US-Iran military escalation, Lindsey Graham's death, a sharp rebuttal to Jonathan Haidt's internet age-gating campaign, and a data-driven defense of the American suburb.
