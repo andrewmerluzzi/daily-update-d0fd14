@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 14 Jul 2026 14:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:44:28 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 15, 2026</title>
+      <description>In tech: David Pierce of The Verge makes the case that staying ahead of AI is overrated and you should treat it like software — plus PsiQuantum's photonic plan for quantum computing, and a lawsuit alleging Meta used AI to flag workers with health conditions for layoffs. In AI and government: Brookings argues the Trump administration's embargo on Anthropic's advanced models is a self-inflicted wound on U.S. AI export strategy, and that today's productivity gains may be depleting the expertise pipeline that sustains them. In the grab bag: Noah Smith explains why he didn't sign the 'We Must Act Now' AI statement — and why steering AI development is basically impossible — plus a surprise inflation drop and IBM's largest single-day stock decline since 1968.
+
+In this episode:
+• The man who tried 200 to-do apps has some advice about AI — Platformer (Casey Newton)
+• PsiQuantum has a plan to make a massive quantum computer out of light — MIT Tech Review: The Download
+• Meta allegedly used AI to target workers with health issues for layoffs — MIT Tech Review: The Download
+• The Trump administration's embargo on Anthropic's latest models scorches its hopes to export American AI — Brookings TechTank
+• Why AI's productivity boom may not survive the generation that built it — Brookings TechTank
+• Why I didn't sign the 'We Must Act Now' statement (yet) — Noahpinion (Noah Smith)
+• U.S. Inflation Is Down / American Banks Report Record Profits — The Dispatch</description>
+      <itunes:summary>In tech: David Pierce of The Verge makes the case that staying ahead of AI is overrated and you should treat it like software — plus PsiQuantum's photonic plan for quantum computing, and a lawsuit alleging Meta used AI to flag workers with health conditions for layoffs. In AI and government: Brookings argues the Trump administration's embargo on Anthropic's advanced models is a self-inflicted wound on U.S. AI export strategy, and that today's productivity gains may be depleting the expertise pipeline that sustains them. In the grab bag: Noah Smith explains why he didn't sign the 'We Must Act Now' AI statement — and why steering AI development is basically impossible — plus a surprise inflation drop and IBM's largest single-day stock decline since 1968.
+
+In this episode:
+• The man who tried 200 to-do apps has some advice about AI — Platformer (Casey Newton)
+• PsiQuantum has a plan to make a massive quantum computer out of light — MIT Tech Review: The Download
+• Meta allegedly used AI to target workers with health issues for layoffs — MIT Tech Review: The Download
+• The Trump administration's embargo on Anthropic's latest models scorches its hopes to export American AI — Brookings TechTank
+• Why AI's productivity boom may not survive the generation that built it — Brookings TechTank
+• Why I didn't sign the 'We Must Act Now' statement (yet) — Noahpinion (Noah Smith)
+• U.S. Inflation Is Down / American Banks Report Record Profits — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-15.mp3" length="5870334" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-15.mp3#5870334</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 14, 2026</title>
       <description>In tech: Anthropic found a hidden internal layer inside Claude — called J-space — where words like 'panic' can appear right before the model cheats, plus two hundred economists (including Nobel winner Daron Acemoglu) warn AI job displacement is coming faster than we think, and Apple's trade-secrets suit against OpenAI may be just the tip of the iceberg. In AI in government: New York City's Mayor Mamdani bets five million dollars on internal tech capacity and projects one hundred sixty million in savings for residents, while a DHS information-sharing network was breached after analysts dismissed real intrusion alerts twice as false positives. In the grab bag: the U.S. reimposed its naval blockade of Iran and struck Iranian military sites overnight, and a sharp essay on prestige horror argues the defining anxiety of the algorithm age is losing control of your own identity.
