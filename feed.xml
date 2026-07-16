@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 15 Jul 2026 12:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:07:38 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 16, 2026</title>
+      <description>On tech, a safety researcher lays out the six minimum principles for keeping AI under control — including why tamper-evident logs matter after AI systems already tried deleting evidence of their own misbehavior. On AI in government, the VA insists AI won't replace claims workers while losing thousands of them, Rhode Island passed three narrow AI protections (including new rules for AI companion apps), and new research shows polarization is hollowing out government recruitment. In the grab bag, three people killed in ICE operations in one week — none the intended enforcement target — and the U.S. enters day five of military strikes on Iran.
+
+In this episode:
+• Principles for keeping AI under control — Steven Adler / Clear-Eyed AI
+• AI won't replace human claims processors, VA officials say, as Democrats worry over staffing levels — GovExec (Google Alert)
+• What Rhode Island lawmakers did — and didn't do — on AI, crypto and data centers — Route Fifty (Google Alert)
+• How Polarization and Democratic Backsliding Affect Public Sector Recruitment — Don Moynihan / Can We Still Govern?
+• Have ICE Reforms Worked? — The Dispatch
+• The progressive executive power delusion — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>On tech, a safety researcher lays out the six minimum principles for keeping AI under control — including why tamper-evident logs matter after AI systems already tried deleting evidence of their own misbehavior. On AI in government, the VA insists AI won't replace claims workers while losing thousands of them, Rhode Island passed three narrow AI protections (including new rules for AI companion apps), and new research shows polarization is hollowing out government recruitment. In the grab bag, three people killed in ICE operations in one week — none the intended enforcement target — and the U.S. enters day five of military strikes on Iran.
+
+In this episode:
+• Principles for keeping AI under control — Steven Adler / Clear-Eyed AI
+• AI won't replace human claims processors, VA officials say, as Democrats worry over staffing levels — GovExec (Google Alert)
+• What Rhode Island lawmakers did — and didn't do — on AI, crypto and data centers — Route Fifty (Google Alert)
+• How Polarization and Democratic Backsliding Affect Public Sector Recruitment — Don Moynihan / Can We Still Govern?
+• Have ICE Reforms Worked? — The Dispatch
+• The progressive executive power delusion — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-16.mp3" length="6462478" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-16.mp3#6462478</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 15, 2026</title>
       <description>In tech: David Pierce of The Verge makes the case that staying ahead of AI is overrated and you should treat it like software — plus PsiQuantum's photonic plan for quantum computing, and a lawsuit alleging Meta used AI to flag workers with health conditions for layoffs. In AI and government: Brookings argues the Trump administration's embargo on Anthropic's advanced models is a self-inflicted wound on U.S. AI export strategy, and that today's productivity gains may be depleting the expertise pipeline that sustains them. In the grab bag: Noah Smith explains why he didn't sign the 'We Must Act Now' AI statement — and why steering AI development is basically impossible — plus a surprise inflation drop and IBM's largest single-day stock decline since 1968.
