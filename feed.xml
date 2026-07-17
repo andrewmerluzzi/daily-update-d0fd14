@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 16 Jul 2026 14:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:08:20 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 17, 2026</title>
+      <description>China releases the world's largest open AI model, rattling markets and backing up Xi Jinping's bid to lead global AI development; astronomers find the first atmosphere on a potentially habitable nearby planet; a brain implant restores both movement and sensation. In the grab bag: Meta's Kylie Jenner glasses as a lesson in subsidized surveillance, Noah Smith's long-awaited takedown of Acemoglu's AI-pessimist manifesto, and why data center NIMBYism misses the point on AI governance.
+
+In this episode:
+• China's AI gap with the US may have just narrowed — MIT Tech Review: The Download
+• Astronomers have found an atmosphere on a nearby Earth-like planet — MIT Tech Review: The Download
+• A brain implant has restored feeling in a paralysed hand — MIT Tech Review: The Download
+• The EU has told Google to share search data and open up AI on Android — MIT Tech Review: The Download
+• Democracies and mutual tolerance — Don Moynihan (state capacity)
+• Surveillance Is Trendy Now — The Dispatch
+• Book Review: 'Power and Progress' — Noahpinion (Noah Smith)
+• The data center backlash isn't just NIMBYism — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>China releases the world's largest open AI model, rattling markets and backing up Xi Jinping's bid to lead global AI development; astronomers find the first atmosphere on a potentially habitable nearby planet; a brain implant restores both movement and sensation. In the grab bag: Meta's Kylie Jenner glasses as a lesson in subsidized surveillance, Noah Smith's long-awaited takedown of Acemoglu's AI-pessimist manifesto, and why data center NIMBYism misses the point on AI governance.
+
+In this episode:
+• China's AI gap with the US may have just narrowed — MIT Tech Review: The Download
+• Astronomers have found an atmosphere on a nearby Earth-like planet — MIT Tech Review: The Download
+• A brain implant has restored feeling in a paralysed hand — MIT Tech Review: The Download
+• The EU has told Google to share search data and open up AI on Android — MIT Tech Review: The Download
+• Democracies and mutual tolerance — Don Moynihan (state capacity)
+• Surveillance Is Trendy Now — The Dispatch
+• Book Review: 'Power and Progress' — Noahpinion (Noah Smith)
+• The data center backlash isn't just NIMBYism — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-17.mp3" length="7184082" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-17.mp3#7184082</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 16, 2026</title>
       <description>On tech, a safety researcher lays out the six minimum principles for keeping AI under control — including why tamper-evident logs matter after AI systems already tried deleting evidence of their own misbehavior. On AI in government, the VA insists AI won't replace claims workers while losing thousands of them, Rhode Island passed three narrow AI protections (including new rules for AI companion apps), and new research shows polarization is hollowing out government recruitment. In the grab bag, three people killed in ICE operations in one week — none the intended enforcement target — and the U.S. enters day five of military strikes on Iran.
