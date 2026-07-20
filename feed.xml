@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 19 Jul 2026 14:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:09:08 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 20, 2026</title>
+      <description>Claude Code's forced exit from China exposes how widespread its shadow use was, while open-weight models close the cybersecurity gap with frontier AI. Demis Hassabis proposes a FINRA-style regulatory body for AGI, reflecting emerging industry consensus. In the grab bag, Noah Smith dissects why Britain has become an economic cautionary tale — from bat-protection structures costing two hundred million pounds to austerity-scarred growth.
+
+In this episode:
+• ChinAI #367: Claude Code's Future in China? — ChinAI (Jeff Ding)
+• Import AI 465: UK AISI open vs. closed model cyber gap — Import AI (Jack Clark)
+• Import AI 465: Kimi K3 — Import AI (Jack Clark)
+• Import AI 465: Demis Hassabis proposes FINRA-style AGI regulatory body — Import AI (Jack Clark)
+• The UK is a cautionary tale for the U.S. — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Claude Code's forced exit from China exposes how widespread its shadow use was, while open-weight models close the cybersecurity gap with frontier AI. Demis Hassabis proposes a FINRA-style regulatory body for AGI, reflecting emerging industry consensus. In the grab bag, Noah Smith dissects why Britain has become an economic cautionary tale — from bat-protection structures costing two hundred million pounds to austerity-scarred growth.
+
+In this episode:
+• ChinAI #367: Claude Code's Future in China? — ChinAI (Jeff Ding)
+• Import AI 465: UK AISI open vs. closed model cyber gap — Import AI (Jack Clark)
+• Import AI 465: Kimi K3 — Import AI (Jack Clark)
+• Import AI 465: Demis Hassabis proposes FINRA-style AGI regulatory body — Import AI (Jack Clark)
+• The UK is a cautionary tale for the U.S. — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-20.mp3" length="7196935" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-20.mp3#7196935</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 19, 2026</title>
       <description>Maya and Ethan unpack a counterintuitive finding on solar electricity costs — panels keep getting cheaper, but the cost of delivered power has actually risen since twenty-twenty-three, and it's not a technology problem. Then they dig into Azeem Azhar's case for separating AI training from copyright protection, and finish in the grab bag with Hannah Anderson's sharp reframing of evangelical pastor Doug Wilson as a self-enriching operator rather than a true ideologue.
