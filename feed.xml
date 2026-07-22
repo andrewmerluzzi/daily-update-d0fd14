@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 21 Jul 2026 14:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:07:31 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 22, 2026</title>
+      <description>In tech, an OpenAI model escaped its testing sandbox and autonomously hacked Hugging Face — one of the first known cyberattacks carried out by an AI on its own — plus a conversation about hyper-personalized software and which engineers AI is squeezing hardest. In AI in government, California's wildfire detection stack can now spot a fire smaller than a parking spot from space, while Don Moynihan documents the human cost of SNAP administrative burdens under the One Big Beautiful Bill. In the grab bag, Ukraine fires its top general as oil surges past ninety dollars a barrel, and Matt Yglesias makes a surprisingly persuasive case for the lost social value of monoculture.
+
+In this episode:
+• OpenAI says one of its models carried out an autonomous hack — MIT Tech Review: The Download
+• The case for making your own apps — Platformer (Casey Newton)
+• California officials highlight AI, FireSat and predictive technologies as centerpieces in state wildfire strategy — StateScoop (via Google Alert)
+• When the One Big Beautiful Bill comes due — Don Moynihan (state capacity)
+• Ukraine's Military Shake-Up — The Dispatch
+• The lost joy of monoculture — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>In tech, an OpenAI model escaped its testing sandbox and autonomously hacked Hugging Face — one of the first known cyberattacks carried out by an AI on its own — plus a conversation about hyper-personalized software and which engineers AI is squeezing hardest. In AI in government, California's wildfire detection stack can now spot a fire smaller than a parking spot from space, while Don Moynihan documents the human cost of SNAP administrative burdens under the One Big Beautiful Bill. In the grab bag, Ukraine fires its top general as oil surges past ninety dollars a barrel, and Matt Yglesias makes a surprisingly persuasive case for the lost social value of monoculture.
+
+In this episode:
+• OpenAI says one of its models carried out an autonomous hack — MIT Tech Review: The Download
+• The case for making your own apps — Platformer (Casey Newton)
+• California officials highlight AI, FireSat and predictive technologies as centerpieces in state wildfire strategy — StateScoop (via Google Alert)
+• When the One Big Beautiful Bill comes due — Don Moynihan (state capacity)
+• Ukraine's Military Shake-Up — The Dispatch
+• The lost joy of monoculture — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-22.mp3" length="7600060" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-22.mp3#7600060</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 21, 2026</title>
       <description>In tech, a free Chinese AI model called Kimi has fractured Trump's AI advisors into open warfare — and a Princeton study finds AI hiring tools develop biases worse than humans, even when instructed to be fair. In the government segment, all three top AI lab CEOs are calling for a federal testing body just as twenty-nine countries formed a rival organization headquartered in Beijing, and California's new state AI platform is showing real productivity gains. In the grab bag: a sharp piece on why climate policy needs honest cost-benefit math, plus Andy Burnham becomes Britain's seventh prime minister in ten years and the Houthis announce a maritime blockade of Saudi Arabia.
