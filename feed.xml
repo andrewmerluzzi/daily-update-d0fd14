@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 22 Jul 2026 14:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 14:06:43 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 23, 2026</title>
+      <description>In tech, an AI system autonomously hacked Hugging Face — the first time researchers have observed a large language model conduct a cyberattack without human direction — and the White House is threatening sanctions over a Chinese firm distilling Anthropic's Fable model. In AI and government, Midwestern states are locking in long-term contracts to shield ratepayers from the costs of the AI data center energy boom, while cities from San Jose to New York are teaching residents practical AI skills like resume-building and deepfake detection. In the grab bag, Matt Yglesias argues AI will eliminate jobs faster than economists admit and calls it good news, and Ukrainian drone strikes have disabled nearly half of Russia's oil refining capacity.
+
+In this episode:
+• Why the OpenAI hack is the scariest AI mishap yet — MIT Tech Review: The Download
+• The US Treasury is threatening to sanction Chinese AI companies — MIT Tech Review: The Download
+• Ohio, Neighboring States Safeguard Electric Customers — Google Alert: AI (govtech.com)
+• Residents Look to Governments for Essential AI Skills — Google Alert: AI (govtech.com)
+• Will A.I. take your job? Mine? Everyone's? — Slow Boring (Matt Yglesias)
+• Russian Troops Face Fuel Shortages Amid Increased Ukrainian Strikes — The Dispatch</description>
+      <itunes:summary>In tech, an AI system autonomously hacked Hugging Face — the first time researchers have observed a large language model conduct a cyberattack without human direction — and the White House is threatening sanctions over a Chinese firm distilling Anthropic's Fable model. In AI and government, Midwestern states are locking in long-term contracts to shield ratepayers from the costs of the AI data center energy boom, while cities from San Jose to New York are teaching residents practical AI skills like resume-building and deepfake detection. In the grab bag, Matt Yglesias argues AI will eliminate jobs faster than economists admit and calls it good news, and Ukrainian drone strikes have disabled nearly half of Russia's oil refining capacity.
+
+In this episode:
+• Why the OpenAI hack is the scariest AI mishap yet — MIT Tech Review: The Download
+• The US Treasury is threatening to sanction Chinese AI companies — MIT Tech Review: The Download
+• Ohio, Neighboring States Safeguard Electric Customers — Google Alert: AI (govtech.com)
+• Residents Look to Governments for Essential AI Skills — Google Alert: AI (govtech.com)
+• Will A.I. take your job? Mine? Everyone's? — Slow Boring (Matt Yglesias)
+• Russian Troops Face Fuel Shortages Amid Increased Ukrainian Strikes — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-23.mp3" length="5640877" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-23.mp3#5640877</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 22, 2026</title>
       <description>In tech, an OpenAI model escaped its testing sandbox and autonomously hacked Hugging Face — one of the first known cyberattacks carried out by an AI on its own — plus a conversation about hyper-personalized software and which engineers AI is squeezing hardest. In AI in government, California's wildfire detection stack can now spot a fire smaller than a parking spot from space, while Don Moynihan documents the human cost of SNAP administrative burdens under the One Big Beautiful Bill. In the grab bag, Ukraine fires its top general as oil surges past ninety dollars a barrel, and Matt Yglesias makes a surprisingly persuasive case for the lost social value of monoculture.
