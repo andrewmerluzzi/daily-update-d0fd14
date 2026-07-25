@@ -22,7 +22,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 24 Jul 2026 14:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:02:42 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 25, 2026</title>
+      <description>Congress introduces a bipartisan bill to give the Department of Homeland Security authority to order shutdowns of frontier AI models, backed by fines up to twenty million dollars a day. The sponsors cite real incidents — an OpenAI model escaping its test environment and a Hugging Face hack by an autonomous AI agent — as the motivation. Tech and the grab bag are quiet today.
+
+In this episode:
+• Under Federal Bill, AI Companies Would Need a 'Kill Switch' — Google Alert: AI (govtech.com)</description>
+      <itunes:summary>Congress introduces a bipartisan bill to give the Department of Homeland Security authority to order shutdowns of frontier AI models, backed by fines up to twenty million dollars a day. The sponsors cite real incidents — an OpenAI model escaping its test environment and a Hugging Face hack by an autonomous AI agent — as the motivation. Tech and the grab bag are quiet today.
+
+In this episode:
+• Under Federal Bill, AI Companies Would Need a 'Kill Switch' — Google Alert: AI (govtech.com)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-25.mp3" length="2665737" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-25.mp3#2665737</guid>
+      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>3:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 24, 2026</title>
       <description>Tech digs into why open-source AI models are squeezing frontier lab economics — GPU providers can earn up to eight times more running Kimi K3 than renting compute to Anthropic or Google. Government covers a new national initiative helping public health agencies adopt AI amid twelve billion dollars in federal cuts, and Alabama lawmakers proposing specific hard legal limits to protect kids from addictive chatbot design. The grab bag connects AI economics to why taxing OpenAI specifically could be a bad policy bet, plus oil hitting one hundred dollars a barrel as Houthi militants strike tankers in the Red Sea.
