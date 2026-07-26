@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 25 Jul 2026 14:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 14:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — July 26, 2026</title>
+      <description>In tech, Exponential View unpacks the AI distillation debate — is China training on US model outputs really the same as industrial espionage, and what does IP even mean when AI generates the content? Plus: China's chip self-sufficiency numbers and the Marat angle on AI discourse. In AI in government, Oklahoma launches BEACON, a shared enterprise AI platform with two lighthouse tools for legislators and procurement staff. And in the grab bag, Noah Smith takes on whether superintelligence will actually deliver transformative economic gains — or whether intelligence itself hits a mathematical ceiling.
+
+In this episode:
+• Distillation grey zone — Exponential View (Azeem Azhar)
+• China's chip chase — Exponential View (Azeem Azhar)
+• Prophet motive — AI discourse and the Marat temperament — Exponential View (Azeem Azhar)
+• Oklahoma debuts internal AI platform with two 'lighthouse' tools for legislators, procurement — StateScoop
+• What will more intelligence actually do for us? — Noahpinion (Noah Smith)</description>
+      <itunes:summary>In tech, Exponential View unpacks the AI distillation debate — is China training on US model outputs really the same as industrial espionage, and what does IP even mean when AI generates the content? Plus: China's chip self-sufficiency numbers and the Marat angle on AI discourse. In AI in government, Oklahoma launches BEACON, a shared enterprise AI platform with two lighthouse tools for legislators and procurement staff. And in the grab bag, Noah Smith takes on whether superintelligence will actually deliver transformative economic gains — or whether intelligence itself hits a mathematical ceiling.
+
+In this episode:
+• Distillation grey zone — Exponential View (Azeem Azhar)
+• China's chip chase — Exponential View (Azeem Azhar)
+• Prophet motive — AI discourse and the Marat temperament — Exponential View (Azeem Azhar)
+• Oklahoma debuts internal AI platform with two 'lighthouse' tools for legislators, procurement — StateScoop
+• What will more intelligence actually do for us? — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-26.mp3" length="7807888" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-07-26.mp3#7807888</guid>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 25, 2026</title>
       <description>Congress introduces a bipartisan bill to give the Department of Homeland Security authority to order shutdowns of frontier AI models, backed by fines up to twenty million dollars a day. The sponsors cite real incidents — an OpenAI model escaping its test environment and a Hugging Face hack by an autonomous AI agent — as the motivation. Tech and the grab bag are quiet today.
