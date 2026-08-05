@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 26 Jul 2026 14:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:05:54 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 5, 2026</title>
+      <description>A NASA telescope pulls double duty hunting dark energy and killer asteroids, and a personal-metrics essay gets a corporate echo in Microsoft's AI ROI problem. Then, the White House's new pre-release framework for frontier AI models collides with a UK safety test that went sideways, plus why state emergency managers can't actually buy the AI tools built for them. Finally, in the grab bag: what the data really says about data centers and your electric bill, America's renovation boom, and why Republican unity might be a hidden weakness.
+
+In this episode:
+• NASA's new dark energy space telescope can also detect killer asteroids — MIT Tech Review: The Download
+• The inevitable weakness of metrics — MIT Tech Review: The Download
+• White House Readies AI Framework — The Dispatch
+• Emergency management's AI challenge isn't technology — it's implementation — Google Alert: AI (statescoop.com)
+• NSF announces $100M grant program for state, regional AI infrastructure hubs — Google Alert: AI (statescoop.com)
+• The Data Center Backlash Is Really About Abundance — The Dispatch
+• America's endless home makeover — The Argument
+• Republicans are in too little disarray — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>A NASA telescope pulls double duty hunting dark energy and killer asteroids, and a personal-metrics essay gets a corporate echo in Microsoft's AI ROI problem. Then, the White House's new pre-release framework for frontier AI models collides with a UK safety test that went sideways, plus why state emergency managers can't actually buy the AI tools built for them. Finally, in the grab bag: what the data really says about data centers and your electric bill, America's renovation boom, and why Republican unity might be a hidden weakness.
+
+In this episode:
+• NASA's new dark energy space telescope can also detect killer asteroids — MIT Tech Review: The Download
+• The inevitable weakness of metrics — MIT Tech Review: The Download
+• White House Readies AI Framework — The Dispatch
+• Emergency management's AI challenge isn't technology — it's implementation — Google Alert: AI (statescoop.com)
+• NSF announces $100M grant program for state, regional AI infrastructure hubs — Google Alert: AI (statescoop.com)
+• The Data Center Backlash Is Really About Abundance — The Dispatch
+• America's endless home makeover — The Argument
+• Republicans are in too little disarray — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-05.mp3" length="6118601" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-05.mp3#6118601</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — July 26, 2026</title>
       <description>In tech, Exponential View unpacks the AI distillation debate — is China training on US model outputs really the same as industrial espionage, and what does IP even mean when AI generates the content? Plus: China's chip self-sufficiency numbers and the Marat angle on AI discourse. In AI in government, Oklahoma launches BEACON, a shared enterprise AI platform with two lighthouse tools for legislators and procurement staff. And in the grab bag, Noah Smith takes on whether superintelligence will actually deliver transformative economic gains — or whether intelligence itself hits a mathematical ceiling.
