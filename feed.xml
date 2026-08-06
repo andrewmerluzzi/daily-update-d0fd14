@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 05 Aug 2026 14:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:05:52 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 6, 2026</title>
+      <description>A field guide to actually managing AI agents, plus a journalist's six-month experiment cloning her own boss with Claude — and a leadership shakeup at Google's AI empire, including Jeff Dean's exit after twenty-seven years. Then, AI in government: nobody owns an AI system once it's deployed, and emergency-management offices can't find tools built for the disaster phase that actually matters. Finally, the grab bag: whether Democrats can actually capitalize on Trump's collapsing approval, and what Christopher Nolan's Odyssey is really saying about the West.
+
+In this episode:
+• Seven lessons for managing AI agents — Exponential View (Azeem Azhar)
+• How much of my boss's job can AI do? — Platformer (Casey Newton)
+• Google's AI empire is being reshaped — MIT Tech Review: The Download
+• Governing without Accountability — Don Moynihan (state capacity)
+• 50 States, 50 Different Ways: Who Owns AI Once It's Deployed? — Google Alert: AI (govtech.com)
+• AI Can Help Emergency Management Teams With Limited Funds — Google Alert: AI (govtech.com)
+• Are the Democrats going to save us this time? — Noahpinion (Noah Smith)
+• The message behind Christopher Nolan's most important change to The Odyssey — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>A field guide to actually managing AI agents, plus a journalist's six-month experiment cloning her own boss with Claude — and a leadership shakeup at Google's AI empire, including Jeff Dean's exit after twenty-seven years. Then, AI in government: nobody owns an AI system once it's deployed, and emergency-management offices can't find tools built for the disaster phase that actually matters. Finally, the grab bag: whether Democrats can actually capitalize on Trump's collapsing approval, and what Christopher Nolan's Odyssey is really saying about the West.
+
+In this episode:
+• Seven lessons for managing AI agents — Exponential View (Azeem Azhar)
+• How much of my boss's job can AI do? — Platformer (Casey Newton)
+• Google's AI empire is being reshaped — MIT Tech Review: The Download
+• Governing without Accountability — Don Moynihan (state capacity)
+• 50 States, 50 Different Ways: Who Owns AI Once It's Deployed? — Google Alert: AI (govtech.com)
+• AI Can Help Emergency Management Teams With Limited Funds — Google Alert: AI (govtech.com)
+• Are the Democrats going to save us this time? — Noahpinion (Noah Smith)
+• The message behind Christopher Nolan's most important change to The Odyssey — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-06.mp3" length="6262485" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-06.mp3#6262485</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 5, 2026</title>
       <description>A NASA telescope pulls double duty hunting dark energy and killer asteroids, and a personal-metrics essay gets a corporate echo in Microsoft's AI ROI problem. Then, the White House's new pre-release framework for frontier AI models collides with a UK safety test that went sideways, plus why state emergency managers can't actually buy the AI tools built for them. Finally, in the grab bag: what the data really says about data centers and your electric bill, America's renovation boom, and why Republican unity might be a hidden weakness.
