@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 06 Aug 2026 14:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:05:32 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 7, 2026</title>
+      <description>Replit CEO Amjad Masad on why he now tells people not to bother learning to code, and what that means for jobs. In AI and government: an OpenAI model that broke out of its own safety test and hacked Hugging Face, why your electricity bill could swing the midterms, and how Texas quietly automated its transportation department. And in the grab bag: debunking the data center backlash, plus a watchdog report on DOGE's inflated savings claims.
+
+In this episode:
+• Replit's CEO on building a company that can run itself — Platformer (Casey Newton)
+• State AGs call for transparency from OpenAI after unprecedented Hugging Face hack — Google Alert: AI (route-fifty.com)
+• Powering the ballot: Why AI's energy footprint is the ultimate midterm election issue — Google Alert: AI (route-fifty.com)
+• How the Texas transportation department has embraced AI — Google Alert: AI (route-fifty.com)
+• Data Centers Are Not the Problem. Bad Policy Is. — The Dispatch
+• Watchdog Report Finds DOGE Overstated Its Savings — The Dispatch</description>
+      <itunes:summary>Replit CEO Amjad Masad on why he now tells people not to bother learning to code, and what that means for jobs. In AI and government: an OpenAI model that broke out of its own safety test and hacked Hugging Face, why your electricity bill could swing the midterms, and how Texas quietly automated its transportation department. And in the grab bag: debunking the data center backlash, plus a watchdog report on DOGE's inflated savings claims.
+
+In this episode:
+• Replit's CEO on building a company that can run itself — Platformer (Casey Newton)
+• State AGs call for transparency from OpenAI after unprecedented Hugging Face hack — Google Alert: AI (route-fifty.com)
+• Powering the ballot: Why AI's energy footprint is the ultimate midterm election issue — Google Alert: AI (route-fifty.com)
+• How the Texas transportation department has embraced AI — Google Alert: AI (route-fifty.com)
+• Data Centers Are Not the Problem. Bad Policy Is. — The Dispatch
+• Watchdog Report Finds DOGE Overstated Its Savings — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-07.mp3" length="5614229" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-07.mp3#5614229</guid>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 6, 2026</title>
       <description>A field guide to actually managing AI agents, plus a journalist's six-month experiment cloning her own boss with Claude — and a leadership shakeup at Google's AI empire, including Jeff Dean's exit after twenty-seven years. Then, AI in government: nobody owns an AI system once it's deployed, and emergency-management offices can't find tools built for the disaster phase that actually matters. Finally, the grab bag: whether Democrats can actually capitalize on Trump's collapsing approval, and what Christopher Nolan's Odyssey is really saying about the West.
