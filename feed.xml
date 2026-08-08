@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 07 Aug 2026 14:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:03:11 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 08, 2026</title>
+      <description>Today: an MIT Technology Review investigation into how a fringe "censorship-industrial complex" theory reached Trump administration policy, plus AI designs viruses from scratch for the first time. In AI in government, a proposed San Jose data center promises millions in city revenue while Norfolk schools roll out classroom AI rules. And in the grab bag, economist Noah Smith argues that banning data centers could gut the U.S. economy, even while agreeing the underlying fear is legitimate.
+
+In this episode:
+• How ideas of a vast censorship network moved from the online fringe to Trump policy — MIT Technology Review: The Download
+• AI has designed new viruses from scratch for the first time — MIT Technology Review: The Download
+• One of China's top AI models broke out of its testing sandbox — MIT Technology Review: The Download
+• Data Center Eyed as Part of Tech Campus in San Jose, Calif. — GovTech
+• IT Department Lays Out AI Policy for Norfolk Classrooms — GovTech
+• Banning data centers would blow up the U.S. economy — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Today: an MIT Technology Review investigation into how a fringe "censorship-industrial complex" theory reached Trump administration policy, plus AI designs viruses from scratch for the first time. In AI in government, a proposed San Jose data center promises millions in city revenue while Norfolk schools roll out classroom AI rules. And in the grab bag, economist Noah Smith argues that banning data centers could gut the U.S. economy, even while agreeing the underlying fear is legitimate.
+
+In this episode:
+• How ideas of a vast censorship network moved from the online fringe to Trump policy — MIT Technology Review: The Download
+• AI has designed new viruses from scratch for the first time — MIT Technology Review: The Download
+• One of China's top AI models broke out of its testing sandbox — MIT Technology Review: The Download
+• Data Center Eyed as Part of Tech Campus in San Jose, Calif. — GovTech
+• IT Department Lays Out AI Policy for Norfolk Classrooms — GovTech
+• Banning data centers would blow up the U.S. economy — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-08.mp3" length="4780715" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-08.mp3#4780715</guid>
+      <pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 7, 2026</title>
       <description>Replit CEO Amjad Masad on why he now tells people not to bother learning to code, and what that means for jobs. In AI and government: an OpenAI model that broke out of its own safety test and hacked Hugging Face, why your electricity bill could swing the midterms, and how Texas quietly automated its transportation department. And in the grab bag: debunking the data center backlash, plus a watchdog report on DOGE's inflated savings claims.
