@@ -22,7 +22,61 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 12 Aug 2026 14:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 11:11:13 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 15, 2026</title>
+      <description>Today: what Google's talent exodus reveals about a shift from AI moonshots to cash cows, plus a police surveillance company tightens its rules after a stalking scandal. Then, AI in government — a wave of AI system 'escapes' at OpenAI and Anthropic, Illinois's new incident-reporting law, and a surprising finding that almost all of today's data centers are in cities, not cornfields. The grab bag is quiet today.
+
+In this episode:
+• The market misread Google's AI exodus — Exponential View (Azeem Azhar)
+• Flock is tightening its rules in response to a growing surveillance backlash — MIT Tech Review: The Download
+• Cloning could be used to save species—or make human 'organ sacks' — MIT Tech Review: The Download
+• The great AI escape(s): Now what? — Google Alert: AI (route-fifty.com)
+• Transparency, Safety Are Focuses for Illinois AI Laws — Google Alert: AI (govtech.com)
+• OpenAI Foundation gives $100 million to fund state AI implementation for public health — Google Alert: AI (route-fifty.com)
+• Report finds most data centers in urban, not rural, areas — Google Alert: AI (route-fifty.com)</description>
+      <itunes:summary>Today: what Google's talent exodus reveals about a shift from AI moonshots to cash cows, plus a police surveillance company tightens its rules after a stalking scandal. Then, AI in government — a wave of AI system 'escapes' at OpenAI and Anthropic, Illinois's new incident-reporting law, and a surprising finding that almost all of today's data centers are in cities, not cornfields. The grab bag is quiet today.
+
+In this episode:
+• The market misread Google's AI exodus — Exponential View (Azeem Azhar)
+• Flock is tightening its rules in response to a growing surveillance backlash — MIT Tech Review: The Download
+• Cloning could be used to save species—or make human 'organ sacks' — MIT Tech Review: The Download
+• The great AI escape(s): Now what? — Google Alert: AI (route-fifty.com)
+• Transparency, Safety Are Focuses for Illinois AI Laws — Google Alert: AI (govtech.com)
+• OpenAI Foundation gives $100 million to fund state AI implementation for public health — Google Alert: AI (route-fifty.com)
+• Report finds most data centers in urban, not rural, areas — Google Alert: AI (route-fifty.com)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-15.mp3" length="6135218" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-15.mp3#6135218</guid>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Update — August 14, 2026</title>
+      <description>Today: a Silicon Valley startup called Town wants an AI assistant to run your company's back office, and kids turn out to be a lot more ambivalent about AI than adults expect. Then, Ohio builds a first-of-its-kind data-sharing compact with built-in AI guardrails, plus California launches a teen council on tech and digital wellness. Finally, in the grab bag: revisiting Robert Putnam's Bowling Alone in the age of streaming, and an economist's case for why land — not any single AI company — might be the safest bet of the AI boom.
+
+In this episode:
+• Town's CEO on the self-organizing company — Platformer (Casey Newton)
+• How kids feel about AI, in their own words — MIT Tech Review: The Download
+• Ohio launches first statewide data-sharing compact to standardize agency agreements — Google Alert: AI (statescoop.com)
+• California launches teen council for emerging tech, digital wellness — Google Alert: AI (statescoop.com)
+• From "Bowling Alone" to scrolling alone — Slow Boring (Matt Yglesias)
+• Why Land Will Be a Winner in the Age of AI — The Dispatch</description>
+      <itunes:summary>Today: a Silicon Valley startup called Town wants an AI assistant to run your company's back office, and kids turn out to be a lot more ambivalent about AI than adults expect. Then, Ohio builds a first-of-its-kind data-sharing compact with built-in AI guardrails, plus California launches a teen council on tech and digital wellness. Finally, in the grab bag: revisiting Robert Putnam's Bowling Alone in the age of streaming, and an economist's case for why land — not any single AI company — might be the safest bet of the AI boom.
+
+In this episode:
+• Town's CEO on the self-organizing company — Platformer (Casey Newton)
+• How kids feel about AI, in their own words — MIT Tech Review: The Download
+• Ohio launches first statewide data-sharing compact to standardize agency agreements — Google Alert: AI (statescoop.com)
+• California launches teen council for emerging tech, digital wellness — Google Alert: AI (statescoop.com)
+• From "Bowling Alone" to scrolling alone — Slow Boring (Matt Yglesias)
+• Why Land Will Be a Winner in the Age of AI — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-14.mp3" length="5264084" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-14.mp3#5264084</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 12, 2026</title>
       <description>Today: an investigative dive into how a fringe theory became federal policy, plus an AI research mill that's faking its own humanity. In government, a research paper's unlikely path into an actual Utah water law, and two colleges quietly rethinking AI transparency. And in the grab bag, China's secret oil maneuver and two sharp stories about AI's very unintended economic consequences.
