@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 15 Aug 2026 11:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:07:47 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 16, 2026</title>
+      <description>An AI agent's daily bill drops from five hundred dollars to six through smarter model routing, which opens onto a much bigger fight: data center backlash boiling over into death threats in Iowa, a performative audit in Texas, and a national PR campaign that's backfiring. Then, remembering Zhu Rongji, the architect of China's reform era, and a personal essay on faith and family from The Dispatch.
+
+In this episode:
+• The curious economics of a $6 AI agent — Exponential View (Azeem Azhar)
+• Data center audit lacks specifics even as Gov. Abbott, industry leaders tout it — Route Fifty
+• The data center industry's PR blitz Is backfiring — Route Fifty
+• Iowa City's Data Center Meeting Delayed Due to Threats — GovTech
+• The end of an era for China's economy — Noahpinion (Noah Smith)
+• Born Jewish, Became a Christian, and Living in the Tension — The Dispatch</description>
+      <itunes:summary>An AI agent's daily bill drops from five hundred dollars to six through smarter model routing, which opens onto a much bigger fight: data center backlash boiling over into death threats in Iowa, a performative audit in Texas, and a national PR campaign that's backfiring. Then, remembering Zhu Rongji, the architect of China's reform era, and a personal essay on faith and family from The Dispatch.
+
+In this episode:
+• The curious economics of a $6 AI agent — Exponential View (Azeem Azhar)
+• Data center audit lacks specifics even as Gov. Abbott, industry leaders tout it — Route Fifty
+• The data center industry's PR blitz Is backfiring — Route Fifty
+• Iowa City's Data Center Meeting Delayed Due to Threats — GovTech
+• The end of an era for China's economy — Noahpinion (Noah Smith)
+• Born Jewish, Became a Christian, and Living in the Tension — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-16.mp3" length="5091990" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-16.mp3#5091990</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 15, 2026</title>
       <description>Today: what Google's talent exodus reveals about a shift from AI moonshots to cash cows, plus a police surveillance company tightens its rules after a stalking scandal. Then, AI in government — a wave of AI system 'escapes' at OpenAI and Anthropic, Illinois's new incident-reporting law, and a surprising finding that almost all of today's data centers are in cities, not cornfields. The grab bag is quiet today.
