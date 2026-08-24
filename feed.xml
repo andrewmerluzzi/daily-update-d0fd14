@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 21 Aug 2026 14:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:05:57 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 24, 2026</title>
+      <description>Today: a METR study on where AI is actually accelerating science versus where it isn't, plus a deep look at the wildly inflated valuations behind China's embodied AI boom. Then, a quick check-in on AI in government, and in the grab bag, two sharp takes on why economics may not be the political lever everyone assumes it is.
+
+In this episode:
+• AI is accelerating some types of progress but not others — Import AI (Jack Clark)
+• China's Overhyped Embodied AI Sector — ChinAI (Jeff Ding)
+• What if our biggest problems aren't economic? — Noahpinion (Noah Smith)
+• The real reason nobody feels good about technological progress — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Today: a METR study on where AI is actually accelerating science versus where it isn't, plus a deep look at the wildly inflated valuations behind China's embodied AI boom. Then, a quick check-in on AI in government, and in the grab bag, two sharp takes on why economics may not be the political lever everyone assumes it is.
+
+In this episode:
+• AI is accelerating some types of progress but not others — Import AI (Jack Clark)
+• China's Overhyped Embodied AI Sector — ChinAI (Jeff Ding)
+• What if our biggest problems aren't economic? — Noahpinion (Noah Smith)
+• The real reason nobody feels good about technological progress — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-24.mp3" length="4335588" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-24.mp3#4335588</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>5:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 21, 2026</title>
       <description>Today: Every's Dan Shipper on cloning his editor in chief with AI and why the company keeps hiring anyway. Then, AI in government — a California city's AI budgeting pilot and Pennsylvania's new binding rules for data centers. And in the grab bag, why the manufacturing boom probably isn't a tariff story, plus a sharper way to think about data center backlash.
