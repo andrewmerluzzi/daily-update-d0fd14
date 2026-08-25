@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 24 Aug 2026 14:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:10:17 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 25, 2026</title>
+      <description>Today: why kids still out-learn AI at language, and what a Russian drone that picked its own target in Ukraine means for autonomous weapons. Then, AI in government — a Connecticut man who hid a prompt-injection attack inside a court filing, an AI dispatcher answering nonemergency nine-one-one calls in western Massachusetts, and the contradiction between Washington's push to win the AI race and its own treatment of federal scientists and foreign talent. Finally, the grab bag: Matt Yglesias on the West's water crisis.
+
+In this episode:
+• Kids outlearn AI at language, and we still don't know why — MIT Technology Review: The Download
+• AI-piloted Russian drone kills three Ukrainian civilians — MIT Technology Review: The Download / The Dispatch
+• AI to Answer Nonemergency 911 Calls in Western Mass. — Google Alert: AI (govtech.com)
+• Connecticut Man Hid AI Prompt in Court Filing — Google Alert: AI (govtech.com)
+• Castles Made of Sand — Don Moynihan (state capacity)
+• Science Policy News: visa lawsuit, National Security S&amp;T Strategy, federal job protections — AIP Science Policy News
+• The Western water crisis has a simple solution — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Today: why kids still out-learn AI at language, and what a Russian drone that picked its own target in Ukraine means for autonomous weapons. Then, AI in government — a Connecticut man who hid a prompt-injection attack inside a court filing, an AI dispatcher answering nonemergency nine-one-one calls in western Massachusetts, and the contradiction between Washington's push to win the AI race and its own treatment of federal scientists and foreign talent. Finally, the grab bag: Matt Yglesias on the West's water crisis.
+
+In this episode:
+• Kids outlearn AI at language, and we still don't know why — MIT Technology Review: The Download
+• AI-piloted Russian drone kills three Ukrainian civilians — MIT Technology Review: The Download / The Dispatch
+• AI to Answer Nonemergency 911 Calls in Western Mass. — Google Alert: AI (govtech.com)
+• Connecticut Man Hid AI Prompt in Court Filing — Google Alert: AI (govtech.com)
+• Castles Made of Sand — Don Moynihan (state capacity)
+• Science Policy News: visa lawsuit, National Security S&amp;T Strategy, federal job protections — AIP Science Policy News
+• The Western water crisis has a simple solution — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-25.mp3" length="5552792" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-25.mp3#5552792</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 24, 2026</title>
       <description>Today: a METR study on where AI is actually accelerating science versus where it isn't, plus a deep look at the wildly inflated valuations behind China's embodied AI boom. Then, a quick check-in on AI in government, and in the grab bag, two sharp takes on why economics may not be the political lever everyone assumes it is.
