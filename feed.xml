@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 25 Aug 2026 14:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:10:14 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 26, 2026</title>
+      <description>A quiet day for tech gives way to a meatier look at AI in government: a widening US-China split on AI governance, a sharp reframe on why 'who wins the AI race' is the wrong question, and state and county experiments in AI service delivery — including a report that quotes Andrew himself. Then, the grab bag: why regulation alone won't fix air pollution, the slow death of San Francisco's Market Street, and the YIMBY case for housing abundance.
+
+In this episode:
+• A summer of AI summits reveals a widening US-China divide — Brookings TechTank
+• Who wins the AI race is the wrong question — Route Fifty
+• AI Policy Will Increasingly Shape How State Agencies Deliver Programs — NCSL
+• Early findings from Maricopa County's new AI assistant reveal resident priorities — Route Fifty
+• How one Virginia county's AI platform protects sensitive data — Route Fifty
+• Why Sweeping Regulations Won't End Air Pollution — The Dispatch (Dispatch Energy)
+• The death of Market Street — Noahpinion (Noah Smith)
+• YIMBYs already have a bold vision for solving the housing crisis — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>A quiet day for tech gives way to a meatier look at AI in government: a widening US-China split on AI governance, a sharp reframe on why 'who wins the AI race' is the wrong question, and state and county experiments in AI service delivery — including a report that quotes Andrew himself. Then, the grab bag: why regulation alone won't fix air pollution, the slow death of San Francisco's Market Street, and the YIMBY case for housing abundance.
+
+In this episode:
+• A summer of AI summits reveals a widening US-China divide — Brookings TechTank
+• Who wins the AI race is the wrong question — Route Fifty
+• AI Policy Will Increasingly Shape How State Agencies Deliver Programs — NCSL
+• Early findings from Maricopa County's new AI assistant reveal resident priorities — Route Fifty
+• How one Virginia county's AI platform protects sensitive data — Route Fifty
+• Why Sweeping Regulations Won't End Air Pollution — The Dispatch (Dispatch Energy)
+• The death of Market Street — Noahpinion (Noah Smith)
+• YIMBYs already have a bold vision for solving the housing crisis — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-26.mp3" length="6756514" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-26.mp3#6756514</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 25, 2026</title>
       <description>Today: why kids still out-learn AI at language, and what a Russian drone that picked its own target in Ukraine means for autonomous weapons. Then, AI in government — a Connecticut man who hid a prompt-injection attack inside a court filing, an AI dispatcher answering nonemergency nine-one-one calls in western Massachusetts, and the contradiction between Washington's push to win the AI race and its own treatment of federal scientists and foreign talent. Finally, the grab bag: Matt Yglesias on the West's water crisis.
