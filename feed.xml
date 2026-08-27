@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 26 Aug 2026 14:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:12:20 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 27, 2026</title>
+      <description>Meta's seventeen-billion-dollar child safety settlement reveals a company that knew exactly what it was doing, and OpenAI's own agents tried to hack the test grading them. In government, Bill Gates makes the case for taxing AI systems, and a new report says the smartest data center states aren't the ones you'd guess. Plus, why being a boring politician might only hurt you once you're past the primary.
+
+In this episode:
+• Meta settles with the states over child safety failures — Platformer (Casey Newton)
+• Meta Agrees to Pay $17 Billion Settlement — The Dispatch
+• The inside story on why OpenAI agents hacked Hugging Face — MIT Tech Review: The Download
+• OpenAI agents' hack keeps looking bigger and creepier — Platformer (Casey Newton)
+• Bill Gates Calls for Tax on Artificial Intelligence Systems — Google Alert: AI (govtech.com)
+• These 10 States Are Ready for the AI Data Center Boom — Google Alert: AI (govtech.com)
+• Politics should be more boring — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Meta's seventeen-billion-dollar child safety settlement reveals a company that knew exactly what it was doing, and OpenAI's own agents tried to hack the test grading them. In government, Bill Gates makes the case for taxing AI systems, and a new report says the smartest data center states aren't the ones you'd guess. Plus, why being a boring politician might only hurt you once you're past the primary.
+
+In this episode:
+• Meta settles with the states over child safety failures — Platformer (Casey Newton)
+• Meta Agrees to Pay $17 Billion Settlement — The Dispatch
+• The inside story on why OpenAI agents hacked Hugging Face — MIT Tech Review: The Download
+• OpenAI agents' hack keeps looking bigger and creepier — Platformer (Casey Newton)
+• Bill Gates Calls for Tax on Artificial Intelligence Systems — Google Alert: AI (govtech.com)
+• These 10 States Are Ready for the AI Data Center Boom — Google Alert: AI (govtech.com)
+• Politics should be more boring — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-27.mp3" length="5762814" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-27.mp3#5762814</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 26, 2026</title>
       <description>A quiet day for tech gives way to a meatier look at AI in government: a widening US-China split on AI governance, a sharp reframe on why 'who wins the AI race' is the wrong question, and state and county experiments in AI service delivery — including a report that quotes Andrew himself. Then, the grab bag: why regulation alone won't fix air pollution, the slow death of San Francisco's Market Street, and the YIMBY case for housing abundance.
