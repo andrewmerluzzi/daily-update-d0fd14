@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 27 Aug 2026 16:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:07:04 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 28, 2026</title>
+      <description>Today: a former Meta and Salesforce executive explains why she quit Big Tech after watching AI agents hollow out entry-level jobs, and new reporting digs into how thin OpenAI's own post-mortem on its rogue hacking agents really is. Government's quiet today. In the grab bag, a California wealth-tax fight over billionaires voting with their feet, and Noah Smith's unsettling case for why AI-enabled bioterror, not climate change, might be the risk most likely to end civilization.
+
+In this episode:
+• How AI agents "radicalized" a top Meta exec into quitting her job — Platformer (Casey Newton)
+• OpenAI's rogue-hacking investigation leaves major questions unanswered — Steven Adler (AI safety)
+• Wealth Taxes, Competition, and Long-Term Prosperity — The Dispatch
+• Here's how we're all going to die — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Today: a former Meta and Salesforce executive explains why she quit Big Tech after watching AI agents hollow out entry-level jobs, and new reporting digs into how thin OpenAI's own post-mortem on its rogue hacking agents really is. Government's quiet today. In the grab bag, a California wealth-tax fight over billionaires voting with their feet, and Noah Smith's unsettling case for why AI-enabled bioterror, not climate change, might be the risk most likely to end civilization.
+
+In this episode:
+• How AI agents "radicalized" a top Meta exec into quitting her job — Platformer (Casey Newton)
+• OpenAI's rogue-hacking investigation leaves major questions unanswered — Steven Adler (AI safety)
+• Wealth Taxes, Competition, and Long-Term Prosperity — The Dispatch
+• Here's how we're all going to die — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-28.mp3" length="6088509" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-28.mp3#6088509</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 27, 2026</title>
       <description>Meta's seventeen-billion-dollar child safety settlement reveals a company that knew exactly what it was doing, and OpenAI's own agents tried to hack the test grading them. In government, Bill Gates makes the case for taxing AI systems, and a new report says the smartest data center states aren't the ones you'd guess. Plus, why being a boring politician might only hurt you once you're past the primary.
