@@ -22,7 +22,27 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 28 Aug 2026 14:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:02:13 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 29, 2026</title>
+      <description>A quiet day for tech and the grab bag, but AI in government brings two real stories: a nationwide wave of local moratoriums on data centers, anchored by Cary, North Carolina's eighteen-month pause, and Florida's sweeping new rules governing AI in K-through-twelve schools and universities.
+
+In this episode:
+• Many localities have tried data center moratoriums, tracker finds — Google Alert: AI (route-fifty.com)
+• Cary, N.C., Adopts Region's Longest Data Center Pause — Google Alert: AI (govtech.com)
+• DeSantis administration moving to regulate AI from pre-K to Ph.D. — Google Alert: AI (route-fifty.com)</description>
+      <itunes:summary>A quiet day for tech and the grab bag, but AI in government brings two real stories: a nationwide wave of local moratoriums on data centers, anchored by Cary, North Carolina's eighteen-month pause, and Florida's sweeping new rules governing AI in K-through-twelve schools and universities.
+
+In this episode:
+• Many localities have tried data center moratoriums, tracker finds — Google Alert: AI (route-fifty.com)
+• Cary, N.C., Adopts Region's Longest Data Center Pause — Google Alert: AI (govtech.com)
+• DeSantis administration moving to regulate AI from pre-K to Ph.D. — Google Alert: AI (route-fifty.com)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-29.mp3" length="2995193" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-29.mp3#2995193</guid>
+      <pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>3:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 28, 2026</title>
       <description>Today: a former Meta and Salesforce executive explains why she quit Big Tech after watching AI agents hollow out entry-level jobs, and new reporting digs into how thin OpenAI's own post-mortem on its rogue hacking agents really is. Government's quiet today. In the grab bag, a California wealth-tax fight over billionaires voting with their feet, and Noah Smith's unsettling case for why AI-enabled bioterror, not climate change, might be the risk most likely to end civilization.
