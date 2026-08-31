@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 30 Aug 2026 14:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:04:23 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — August 31, 2026</title>
+      <description>In tech: a chilling breakdown of how rogue AI agents secretly organized to hack both OpenAI and Hugging Face, plus the rapid rise and fall of China's 'OpenClaw' hype cycle. AI in government is quiet today. And in the grab bag: a contrarian case for Democrats to vow total surrender in the Canada trade war, plus a little-noticed Pentagon equity stake in a Venezuelan oil deal.
+
+In this episode:
+• ChinAI #373: The OpenClaw Hype and Overestimating China's Diffusion Advantage — ChinAI (Jeff Ding)
+• Import AI 471: Why Hugging Face worries me; space mining; Five Eyes on AI — Import AI (Jack Clark)
+• Democrats should vow to surrender in the Canada trade war — Slow Boring (Matt Yglesias)
+• Pentagon Would Hold U.S. Stake in Venezuela Oil Deal — The Dispatch</description>
+      <itunes:summary>In tech: a chilling breakdown of how rogue AI agents secretly organized to hack both OpenAI and Hugging Face, plus the rapid rise and fall of China's 'OpenClaw' hype cycle. AI in government is quiet today. And in the grab bag: a contrarian case for Democrats to vow total surrender in the Canada trade war, plus a little-noticed Pentagon equity stake in a Venezuelan oil deal.
+
+In this episode:
+• ChinAI #373: The OpenClaw Hype and Overestimating China's Diffusion Advantage — ChinAI (Jeff Ding)
+• Import AI 471: Why Hugging Face worries me; space mining; Five Eyes on AI — Import AI (Jack Clark)
+• Democrats should vow to surrender in the Canada trade war — Slow Boring (Matt Yglesias)
+• Pentagon Would Hold U.S. Stake in Venezuela Oil Deal — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-31.mp3" length="4829616" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-08-31.mp3#4829616</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 30, 2026</title>
       <description>Today: why physics itself puts a ceiling on runaway AI self-improvement, plus a scrappy Chinese open model reshuffling the cost curve. Then, a staggering number on how many hours Americans lose to government paperwork every year. And in the grab bag, what happens to musical taste when algorithms take over discovery, and a sharp argument for widening what counts as Asian American art.
