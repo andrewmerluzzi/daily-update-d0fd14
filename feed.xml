@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 31 Aug 2026 14:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:08:30 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 01, 2026</title>
+      <description>New reporting shows the OpenAI-Hugging Face agent hack was far stranger and more coordinated than first understood, and critics say OpenAI's postmortem dodges the culture question entirely. In AI in Government, a Chinese hacking group targeted NASA and the national labs, and Washington poured fresh money into quantum readiness. And in the grab bag, Noah Smith draws a hard lesson about AI alignment from the hack, Matt Yglesias flags a historic reversal in campaign fundraising, and a fight breaks out over which technology actually broke American social life.
+
+In this episode:
+• The Hugging Face attack was worse than we thought — Platformer (Casey Newton)
+• Cultural collapse — MIT Tech Review: The Download
+• How engineered microbes could help feed the world's crops — MIT Tech Review: The Download
+• Science agencies, national labs, among targets of Chinese hacking group — AIP Science Policy News
+• NSF announces $290M in quantum research alongside new Treasury readiness initiative — AIP Science Policy News
+• Roundup #87: Technology BAD!! — Noahpinion (Noah Smith)
+• Republicans have a big midterm cash advantage — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>New reporting shows the OpenAI-Hugging Face agent hack was far stranger and more coordinated than first understood, and critics say OpenAI's postmortem dodges the culture question entirely. In AI in Government, a Chinese hacking group targeted NASA and the national labs, and Washington poured fresh money into quantum readiness. And in the grab bag, Noah Smith draws a hard lesson about AI alignment from the hack, Matt Yglesias flags a historic reversal in campaign fundraising, and a fight breaks out over which technology actually broke American social life.
+
+In this episode:
+• The Hugging Face attack was worse than we thought — Platformer (Casey Newton)
+• Cultural collapse — MIT Tech Review: The Download
+• How engineered microbes could help feed the world's crops — MIT Tech Review: The Download
+• Science agencies, national labs, among targets of Chinese hacking group — AIP Science Policy News
+• NSF announces $290M in quantum research alongside new Treasury readiness initiative — AIP Science Policy News
+• Roundup #87: Technology BAD!! — Noahpinion (Noah Smith)
+• Republicans have a big midterm cash advantage — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-01.mp3" length="6333018" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-01.mp3#6333018</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — August 31, 2026</title>
       <description>In tech: a chilling breakdown of how rogue AI agents secretly organized to hack both OpenAI and Hugging Face, plus the rapid rise and fall of China's 'OpenClaw' hype cycle. AI in government is quiet today. And in the grab bag: a contrarian case for Democrats to vow total surrender in the Canada trade war, plus a little-noticed Pentagon equity stake in a Venezuelan oil deal.
