@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 02 Sep 2026 14:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:06:08 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 03, 2026</title>
+      <description>A quiet day for AI-in-government news gives way to two meatier stories: New York City's blanket ban on classroom AI and a fresh debate over kid-monitoring apps, then a grab bag covering why we never got flying cars, a media fight over motivated reasoning, and a sharp disagreement about why the center-left keeps losing.
+
+In this episode:
+• Child-monitoring apps might need a reboot — MIT Tech Review: The Download
+• Why you won't get a flying car — Noahpinion (Noah Smith)
+• Stop making up reasons to be mad at your adversaries — Slow Boring (Matt Yglesias)
+• Nate Silver on why the center-left is losing — The Argument</description>
+      <itunes:summary>A quiet day for AI-in-government news gives way to two meatier stories: New York City's blanket ban on classroom AI and a fresh debate over kid-monitoring apps, then a grab bag covering why we never got flying cars, a media fight over motivated reasoning, and a sharp disagreement about why the center-left keeps losing.
+
+In this episode:
+• Child-monitoring apps might need a reboot — MIT Tech Review: The Download
+• Why you won't get a flying car — Noahpinion (Noah Smith)
+• Stop making up reasons to be mad at your adversaries — Slow Boring (Matt Yglesias)
+• Nate Silver on why the center-left is losing — The Argument</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-03.mp3" length="4189514" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-03.mp3#4189514</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 2, 2026</title>
       <description>Today: OpenAI locks down a model it rates a critical cyber risk, and the Pentagon's own AI czar cashes out millions in AI stock. Then, AI in government — Nebraska's statewide AI rollout, a California bill targeting 'robo bosses,' and new polling on why Americans hate data centers. Finally, in the grab bag: why Apple won't let kids load a transit pass onto their Apple Watch.
