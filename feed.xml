@@ -22,7 +22,25 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 21 Sep 2026 00:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:50:27 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 21, 2026</title>
+      <description>A light day: a quick note on Exponential View's new paid AI Investment Brief, an empty AI-in-government queue, and a deep dive in the grab bag on whether political betting markets actually know anything about elections that polling doesn't.
+
+In this episode:
+• Introducing our AI Investment Brief — Exponential View (Azeem Azhar)
+• Is the blue wave forecast by polling real? — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>A light day: a quick note on Exponential View's new paid AI Investment Brief, an empty AI-in-government queue, and a deep dive in the grab bag on whether political betting markets actually know anything about elections that polling doesn't.
+
+In this episode:
+• Introducing our AI Investment Brief — Exponential View (Azeem Azhar)
+• Is the blue wave forecast by polling real? — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-21.mp3" length="3682007" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-21.mp3#3682007</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>4:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 20, 2026</title>
       <description>Today: the AI industry's sudden turn toward doom-saying after a messy AI hack, plus a fight over credit for a big math proof. Then, state and local governments step into the AI regulation vacuum Washington won't fill, while the National Science Foundation quietly overhauls how it funds science. Finally, a Middle East oil squeeze rattles bond markets, and economists place real bets on whether AI can actually deliver the growth its investors are counting on.
