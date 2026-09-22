@@ -22,7 +22,47 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 21 Sep 2026 10:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:18:37 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 22, 2026</title>
+      <description>A political scientist picks apart Dario Amodei's case for racing China on AI, and a fifteen-month investigation finds migrants dying within sight of the border's AI surveillance towers. Then: the fight inside the federal government over who controls science, from NIH grants to the Kennedy Center, plus states rushing ahead on AI rules while a Montana judge pumps the brakes. Finally, in the grab bag, what a coldly utilitarian AI might think of us, and why one journalist sends his kid to a low-income public school.
+
+In this episode:
+• Critiquing Anthropic's Variant of Pacing the Frontier — ChinAI (Jeff Ding)
+• Import AI 473: The US's superintelligence strategy — Import AI (Jack Clark)
+• The US spent billions on border surveillance. Why can't it catch people before they die? — MIT Tech Review: The Download
+• Investigating death at the border's "virtual wall" — MIT Tech Review: The Download
+• Don't be fooled by this summer of AI hype — MIT Tech Review: The Download
+• The System for Using Evidence to Improve Federal Programs Has Been Gutted — Don Moynihan (state capacity)
+• The art and science we deserve? — Don Moynihan (state capacity)
+• White House reportedly seeks more control over NIH grants / Federal layoffs balloon spending on paid leave — AIP Science Policy News
+• Federal judge says AI deepfake election law violates First Amendment — Google Alert: AI (route-fifty.com)
+• California AI Executive Order Quickens Auditing Process — Google Alert: AI (govtech.com)
+• Minnesota forum reveals widespread unease with AI technology race — Google Alert: AI (route-fifty.com)
+• The problem(s) with utilitarianism — Noahpinion (Noah Smith)
+• Why I send my kid to low-income urban public schools — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>A political scientist picks apart Dario Amodei's case for racing China on AI, and a fifteen-month investigation finds migrants dying within sight of the border's AI surveillance towers. Then: the fight inside the federal government over who controls science, from NIH grants to the Kennedy Center, plus states rushing ahead on AI rules while a Montana judge pumps the brakes. Finally, in the grab bag, what a coldly utilitarian AI might think of us, and why one journalist sends his kid to a low-income public school.
+
+In this episode:
+• Critiquing Anthropic's Variant of Pacing the Frontier — ChinAI (Jeff Ding)
+• Import AI 473: The US's superintelligence strategy — Import AI (Jack Clark)
+• The US spent billions on border surveillance. Why can't it catch people before they die? — MIT Tech Review: The Download
+• Investigating death at the border's "virtual wall" — MIT Tech Review: The Download
+• Don't be fooled by this summer of AI hype — MIT Tech Review: The Download
+• The System for Using Evidence to Improve Federal Programs Has Been Gutted — Don Moynihan (state capacity)
+• The art and science we deserve? — Don Moynihan (state capacity)
+• White House reportedly seeks more control over NIH grants / Federal layoffs balloon spending on paid leave — AIP Science Policy News
+• Federal judge says AI deepfake election law violates First Amendment — Google Alert: AI (route-fifty.com)
+• California AI Executive Order Quickens Auditing Process — Google Alert: AI (govtech.com)
+• Minnesota forum reveals widespread unease with AI technology race — Google Alert: AI (route-fifty.com)
+• The problem(s) with utilitarianism — Noahpinion (Noah Smith)
+• Why I send my kid to low-income urban public schools — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-22.mp3" length="7740182" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-22.mp3#7740182</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 21, 2026</title>
       <description>A light day: a quick note on Exponential View's new paid AI Investment Brief, an empty AI-in-government queue, and a deep dive in the grab bag on whether political betting markets actually know anything about elections that polling doesn't.
