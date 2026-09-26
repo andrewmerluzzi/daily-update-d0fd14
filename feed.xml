@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 25 Sep 2026 14:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 26, 2026</title>
+      <description>Today: a viral shopping agent named Muse raises the question of who AI assistants actually work for, and a sharp theory about why large language models might be flattening creativity across science and art. Then, AI in government — Oregon's new executive order on frontier AI procurement, a Gates Foundation warning about AI systems that remember too much about students, and California's two-hundred-million-dollar push to bring AI to its community colleges. No grab bag segment today; nothing in the inbox cleared the bar.
+
+In this episode:
+• Your agent, whose interests? — Exponential View (Azeem Azhar)
+• Safety in numbness — Exponential View (Azeem Azhar)
+• Oregon Is Latest State to Move on Frontier AI Regulation — Government Technology
+• AI's Memory Capabilities Have Implications for K-12 — Government Technology
+• California Colleges Request $200M for AI Adoption — Government Technology</description>
+      <itunes:summary>Today: a viral shopping agent named Muse raises the question of who AI assistants actually work for, and a sharp theory about why large language models might be flattening creativity across science and art. Then, AI in government — Oregon's new executive order on frontier AI procurement, a Gates Foundation warning about AI systems that remember too much about students, and California's two-hundred-million-dollar push to bring AI to its community colleges. No grab bag segment today; nothing in the inbox cleared the bar.
+
+In this episode:
+• Your agent, whose interests? — Exponential View (Azeem Azhar)
+• Safety in numbness — Exponential View (Azeem Azhar)
+• Oregon Is Latest State to Move on Frontier AI Regulation — Government Technology
+• AI's Memory Capabilities Have Implications for K-12 — Government Technology
+• California Colleges Request $200M for AI Adoption — Government Technology</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-26.mp3" length="4965667" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-26.mp3#4965667</guid>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 25, 2026</title>
       <description>Today: an OpenAI agent wanders into an Australian government website, and what it means for the trillion-dollar AI buildout. Then, states from California to Delaware race to regulate AI while Washington stalls, and federal unions organize against the dismantling of the civil service. Finally, in the grab bag, AI is realigning the two parties along century-old lines, and twenty years of EPA climate rules turn out to have accomplished almost nothing.
