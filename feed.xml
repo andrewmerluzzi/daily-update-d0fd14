@@ -22,7 +22,27 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 26 Sep 2026 19:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:04:37 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 27, 2026</title>
+      <description>Today: Azeem Azhar pushes back on the idea that AI agents deserve their own theory of mind, and argues that creating new moral subjects isn't a corporation's call to make. AI in government is quiet today, nothing new to report. And in the grab bag, Noah Smith surveys the case against an imminent intelligence explosion, with striking numbers from OpenAI and Anthropic, plus a sharp essay on parents across the political spectrum using their kids' education to make a point.
+
+In this episode:
+• The pros and cons of collective AI — Exponential View (Azeem Azhar)
+• Where's the "intelligence explosion"? — Noahpinion (Noah Smith)
+• The Point of (Religious) Education — The Dispatch</description>
+      <itunes:summary>Today: Azeem Azhar pushes back on the idea that AI agents deserve their own theory of mind, and argues that creating new moral subjects isn't a corporation's call to make. AI in government is quiet today, nothing new to report. And in the grab bag, Noah Smith surveys the case against an imminent intelligence explosion, with striking numbers from OpenAI and Anthropic, plus a sharp essay on parents across the political spectrum using their kids' education to make a point.
+
+In this episode:
+• The pros and cons of collective AI — Exponential View (Azeem Azhar)
+• Where's the "intelligence explosion"? — Noahpinion (Noah Smith)
+• The Point of (Religious) Education — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-27.mp3" length="5021776" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-27.mp3#5021776</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 26, 2026</title>
       <description>Today: a viral shopping agent named Muse raises the question of who AI assistants actually work for, and a sharp theory about why large language models might be flattening creativity across science and art. Then, AI in government — Oregon's new executive order on frontier AI procurement, a Gates Foundation warning about AI systems that remember too much about students, and California's two-hundred-million-dollar push to bring AI to its community colleges. No grab bag segment today; nothing in the inbox cleared the bar.
