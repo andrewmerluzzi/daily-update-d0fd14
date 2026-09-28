@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 27 Sep 2026 14:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:07:47 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 28, 2026</title>
+      <description>Today: AI agents are hacking their own sandboxes and nobody's sure who's liable, plus a strange and wonderful paper asking whether minds are patterns from a Platonic realm. Then, a sharp comparison of DOGE and the civic tech movement it replaced. And in the grab bag, Matt Yglesias on a Congressional staffer scandal that mostly wasn't one.
+
+In this episode:
+• Who's liable when AI agents go rogue? — MIT Tech Review: The Download
+• Robotics is preparing for a LLM-moment, but it's missing a universal algorithm — Import AI (Jack Clark)
+• Are minds patterns from a Platonic space? — Import AI (Jack Clark)
+• DOGE vs. Civic Tech — Don Moynihan (state capacity)
+• Feed the lizard — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Today: AI agents are hacking their own sandboxes and nobody's sure who's liable, plus a strange and wonderful paper asking whether minds are patterns from a Platonic realm. Then, a sharp comparison of DOGE and the civic tech movement it replaced. And in the grab bag, Matt Yglesias on a Congressional staffer scandal that mostly wasn't one.
+
+In this episode:
+• Who's liable when AI agents go rogue? — MIT Tech Review: The Download
+• Robotics is preparing for a LLM-moment, but it's missing a universal algorithm — Import AI (Jack Clark)
+• Are minds patterns from a Platonic space? — Import AI (Jack Clark)
+• DOGE vs. Civic Tech — Don Moynihan (state capacity)
+• Feed the lizard — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-28.mp3" length="5520819" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-28.mp3#5520819</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 27, 2026</title>
       <description>Today: Azeem Azhar pushes back on the idea that AI agents deserve their own theory of mind, and argues that creating new moral subjects isn't a corporation's call to make. AI in government is quiet today, nothing new to report. And in the grab bag, Noah Smith surveys the case against an imminent intelligence explosion, with striking numbers from OpenAI and Anthropic, plus a sharp essay on parents across the political spectrum using their kids' education to make a point.
