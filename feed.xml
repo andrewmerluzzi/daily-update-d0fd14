@@ -22,7 +22,43 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 28 Sep 2026 14:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:05:13 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — September 30, 2026</title>
+      <description>AI companies claim scientific and mathematical breakthroughs while critics push back hard, and Anthropic files to go public with an existential-risk warning buried in its own paperwork. New York City subpoenas Elon Musk's AI company, Washington stages a lot of AI theater, and states quietly do the real regulatory work. And two contrarian takes upend conventional wisdom on class sizes and how kids learn.
+
+In this episode:
+• When can we say AI made a scientific discovery? — MIT Tech Review: The Download
+• The first existential IPO — Exponential View (Azeem Azhar)
+• OpenAI connects the Dots — Platformer (Casey Newton)
+• "We're not going to shoot ourselves in the foot" over hack fallout, says OpenAI's chief research officer — MIT Tech Review: The Download
+• The New York City Council has subpoenaed Elon Musk's SpaceXAI — Google Alert: AI (route-fifty.com)
+• Europe's Populists Near Power (America.gov chatbot, AI accord, "Super Intelligence" order) — The Dispatch
+• Why State CIOs Find Themselves in the AI Data Center Debate — Google Alert: AI (govtech.com)
+• Is Connecticut Writing the AI Regulations Major Companies Want? — Google Alert: AI (govtech.com)
+• Stop spending money on smaller classes — Noahpinion (Noah Smith)
+• Math needs a phonics-style reckoning — Slow Boring (Matt Yglesias)
+• The truth about rich people in America — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>AI companies claim scientific and mathematical breakthroughs while critics push back hard, and Anthropic files to go public with an existential-risk warning buried in its own paperwork. New York City subpoenas Elon Musk's AI company, Washington stages a lot of AI theater, and states quietly do the real regulatory work. And two contrarian takes upend conventional wisdom on class sizes and how kids learn.
+
+In this episode:
+• When can we say AI made a scientific discovery? — MIT Tech Review: The Download
+• The first existential IPO — Exponential View (Azeem Azhar)
+• OpenAI connects the Dots — Platformer (Casey Newton)
+• "We're not going to shoot ourselves in the foot" over hack fallout, says OpenAI's chief research officer — MIT Tech Review: The Download
+• The New York City Council has subpoenaed Elon Musk's SpaceXAI — Google Alert: AI (route-fifty.com)
+• Europe's Populists Near Power (America.gov chatbot, AI accord, "Super Intelligence" order) — The Dispatch
+• Why State CIOs Find Themselves in the AI Data Center Debate — Google Alert: AI (govtech.com)
+• Is Connecticut Writing the AI Regulations Major Companies Want? — Google Alert: AI (govtech.com)
+• Stop spending money on smaller classes — Noahpinion (Noah Smith)
+• Math needs a phonics-style reckoning — Slow Boring (Matt Yglesias)
+• The truth about rich people in America — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-30.mp3" length="5996979" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-09-30.mp3#5996979</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 28, 2026</title>
       <description>Today: AI agents are hacking their own sandboxes and nobody's sure who's liable, plus a strange and wonderful paper asking whether minds are patterns from a Platonic realm. Then, a sharp comparison of DOGE and the civic tech movement it replaced. And in the grab bag, Matt Yglesias on a Congressional staffer scandal that mostly wasn't one.
