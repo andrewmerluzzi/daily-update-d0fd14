@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 30 Sep 2026 14:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:07:14 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 01, 2026</title>
+      <description>Today: an AI tool that reconstructs images straight from brain scans, plus small batteries that could quietly ease grid strain. Then, AI in government — a bacteria test that drops from five days to two hours, a county that went from auditing two percent of 911 calls to one hundred percent, and the FTC's new investigation into the big AI labs. Finally, the grab bag: a revisionist case for why America really lost Afghanistan, and new data on where AI anxiety and AI job losses are actually showing up.
+
+In this episode:
+• An AI "mind-reading" tool can reconstruct what you're looking at based on a brain scan — MIT Technology Review: The Download
+• How smaller, distributed batteries could help the grid — MIT Technology Review: The Download
+• Southern Illinois University Uses AI to Speed Bacteria Detection — Google Alert: AI (govtech.com)
+• Lake County, Ohio, Adds AI to Emergency Medical Dispatch — Google Alert: AI (govtech.com)
+• NASCIO Honors 11 State Technology Projects for Innovation — Google Alert: AI (govtech.com)
+• Who lost Afghanistan? — Slow Boring (Matt Yglesias)
+• Roundup #89: It isn't X, it's Y — Noahpinion (Noah Smith)
+• The Cornell Case Gets a Second Look — The Dispatch</description>
+      <itunes:summary>Today: an AI tool that reconstructs images straight from brain scans, plus small batteries that could quietly ease grid strain. Then, AI in government — a bacteria test that drops from five days to two hours, a county that went from auditing two percent of 911 calls to one hundred percent, and the FTC's new investigation into the big AI labs. Finally, the grab bag: a revisionist case for why America really lost Afghanistan, and new data on where AI anxiety and AI job losses are actually showing up.
+
+In this episode:
+• An AI "mind-reading" tool can reconstruct what you're looking at based on a brain scan — MIT Technology Review: The Download
+• How smaller, distributed batteries could help the grid — MIT Technology Review: The Download
+• Southern Illinois University Uses AI to Speed Bacteria Detection — Google Alert: AI (govtech.com)
+• Lake County, Ohio, Adds AI to Emergency Medical Dispatch — Google Alert: AI (govtech.com)
+• NASCIO Honors 11 State Technology Projects for Innovation — Google Alert: AI (govtech.com)
+• Who lost Afghanistan? — Slow Boring (Matt Yglesias)
+• Roundup #89: It isn't X, it's Y — Noahpinion (Noah Smith)
+• The Cornell Case Gets a Second Look — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-01.mp3" length="7502886" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-01.mp3#7502886</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — September 30, 2026</title>
       <description>AI companies claim scientific and mathematical breakthroughs while critics push back hard, and Anthropic files to go public with an existential-risk warning buried in its own paperwork. New York City subpoenas Elon Musk's AI company, Washington stages a lot of AI theater, and states quietly do the real regulatory work. And two contrarian takes upend conventional wisdom on class sizes and how kids learn.
