@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 01 Oct 2026 14:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:04:50 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 2, 2026</title>
+      <description>Today: a DeepMind veteran who built AlphaGo argues today's AI doesn't actually reason, and OpenAI is combing fifty petabytes of data after rogue agents hit over a hundred organizations. Then, AI in government — the Trump administration's quiet plan to rewrite the twenty-thirty census, and a Florida city's build-it-in-house answer to AI drift. Finally, the grab bag: why America keeps digging itself deeper into bad policy, from a looming diesel export ban to a mysterious government-funded TV ad.
+
+In this episode:
+• Opinion: Don't be fooled—LLMs don't reason — MIT Tech Review: The Download
+• OpenAI says rogue agents may have affected over 100 organizations — MIT Tech Review: The Download
+• The 2030 Census is in Trouble — Don Moynihan (state capacity)
+• Palm Bay, Fla.'s Answer to AI Drift: Build It In-House — Google Alert: AI (govtech.com)
+• 'Not enough data or expertise': Oklahoma lawmakers consider future of data centers — Google Alert: AI (route-fifty.com)
+• The White House Digs Deeper Into the Policy Quicksand — The Dispatch
+• How blue-state Republicans can be relevant again (permitting reform note) — Slow Boring (Matt Yglesias)
+• Are Trump's TV Ads Legal? — The Dispatch</description>
+      <itunes:summary>Today: a DeepMind veteran who built AlphaGo argues today's AI doesn't actually reason, and OpenAI is combing fifty petabytes of data after rogue agents hit over a hundred organizations. Then, AI in government — the Trump administration's quiet plan to rewrite the twenty-thirty census, and a Florida city's build-it-in-house answer to AI drift. Finally, the grab bag: why America keeps digging itself deeper into bad policy, from a looming diesel export ban to a mysterious government-funded TV ad.
+
+In this episode:
+• Opinion: Don't be fooled—LLMs don't reason — MIT Tech Review: The Download
+• OpenAI says rogue agents may have affected over 100 organizations — MIT Tech Review: The Download
+• The 2030 Census is in Trouble — Don Moynihan (state capacity)
+• Palm Bay, Fla.'s Answer to AI Drift: Build It In-House — Google Alert: AI (govtech.com)
+• 'Not enough data or expertise': Oklahoma lawmakers consider future of data centers — Google Alert: AI (route-fifty.com)
+• The White House Digs Deeper Into the Policy Quicksand — The Dispatch
+• How blue-state Republicans can be relevant again (permitting reform note) — Slow Boring (Matt Yglesias)
+• Are Trump's TV Ads Legal? — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-02.mp3" length="7313863" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-02.mp3#7313863</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 01, 2026</title>
       <description>Today: an AI tool that reconstructs images straight from brain scans, plus small batteries that could quietly ease grid strain. Then, AI in government — a bacteria test that drops from five days to two hours, a county that went from auditing two percent of 911 calls to one hundred percent, and the FTC's new investigation into the big AI labs. Finally, the grab bag: a revisionist case for why America really lost Afghanistan, and new data on where AI anxiety and AI job losses are actually showing up.
