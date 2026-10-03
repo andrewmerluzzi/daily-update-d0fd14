@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 02 Oct 2026 14:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:22:54 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 03, 2026</title>
+      <description>A short but sharp take on effective altruists' own blind spot about trusting themselves with AI, three different state and city experiments in AI governance — New Mexico's new guardrails push, a New Jersey workplace AI bill, and Boston versus New York City's opposite strategies for AI in schools — and a data-driven look at Noah Smith's case that Trump's second term is already a failure in the court of public opinion.
+
+In this episode:
+• Quick weekend reads: the big AI questions — Exponential View (Azeem Azhar)
+• New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails — Google Alert: AI (govtech.com)
+• NJ lawmaker wants to blunt impacts of AI in the workplace — Google Alert: AI (route-fifty.com)
+• Boston and New York City Take Opposite Approaches to AI in School — Google Alert: AI (govtech.com)
+• The second Trump presidency is a world-historic failure — Noahpinion (Noah Smith)</description>
+      <itunes:summary>A short but sharp take on effective altruists' own blind spot about trusting themselves with AI, three different state and city experiments in AI governance — New Mexico's new guardrails push, a New Jersey workplace AI bill, and Boston versus New York City's opposite strategies for AI in schools — and a data-driven look at Noah Smith's case that Trump's second term is already a failure in the court of public opinion.
+
+In this episode:
+• Quick weekend reads: the big AI questions — Exponential View (Azeem Azhar)
+• New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails — Google Alert: AI (govtech.com)
+• NJ lawmaker wants to blunt impacts of AI in the workplace — Google Alert: AI (route-fifty.com)
+• Boston and New York City Take Opposite Approaches to AI in School — Google Alert: AI (govtech.com)
+• The second Trump presidency is a world-historic failure — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-03.mp3" length="5873158" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-03.mp3#5873158</guid>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 2, 2026</title>
       <description>Today: a DeepMind veteran who built AlphaGo argues today's AI doesn't actually reason, and OpenAI is combing fifty petabytes of data after rogue agents hit over a hundred organizations. Then, AI in government — the Trump administration's quiet plan to rewrite the twenty-thirty census, and a Florida city's build-it-in-house answer to AI drift. Finally, the grab bag: why America keeps digging itself deeper into bad policy, from a looming diesel export ban to a mysterious government-funded TV ad.
