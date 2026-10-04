@@ -22,7 +22,27 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 03 Oct 2026 19:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:01:18 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 04, 2026</title>
+      <description>A quiet Sunday: in tech, a sharp reframe on how far along the energy transition really is, plus a five-lens framework for arguing about AI consciousness. Nothing new on AI in government today. In the grab bag, a New York Times story about Anthropic co-founder Chris Olah's effort to figure out whether Claude might be conscious — and whether it might be suffering — which plays the consciousness framework from the tech segment out in real life.
+
+In this episode:
+• The transition is hiding in plain sight — Exponential View
+• Could AI be conscious? — Exponential View
+• Chris Olah's spiritual quest to determine whether AI is conscious (via NYT) — The Dispatch (Dispatch Faith)</description>
+      <itunes:summary>A quiet Sunday: in tech, a sharp reframe on how far along the energy transition really is, plus a five-lens framework for arguing about AI consciousness. Nothing new on AI in government today. In the grab bag, a New York Times story about Anthropic co-founder Chris Olah's effort to figure out whether Claude might be conscious — and whether it might be suffering — which plays the consciousness framework from the tech segment out in real life.
+
+In this episode:
+• The transition is hiding in plain sight — Exponential View
+• Could AI be conscious? — Exponential View
+• Chris Olah's spiritual quest to determine whether AI is conscious (via NYT) — The Dispatch (Dispatch Faith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-04.mp3" length="3623073" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-04.mp3#3623073</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>4:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 03, 2026</title>
       <description>A short but sharp take on effective altruists' own blind spot about trusting themselves with AI, three different state and city experiments in AI governance — New Mexico's new guardrails push, a New Jersey workplace AI bill, and Boston versus New York City's opposite strategies for AI in schools — and a data-driven look at Noah Smith's case that Trump's second term is already a failure in the court of public opinion.
