@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 04 Oct 2026 16:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:13:20 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 05, 2026</title>
+      <description>Today: why people say they hate AI yet can't stop using it, plus a new benchmark on how well AI can run an actual science lab and a sharp note on agent-swarm scaling; a quiet day for AI-in-government news save one striking poll on distrust of industry self-policing; and in the grab bag, Noah Smith takes on Paul Krugman over whether the AI boom is actually helping regular Americans, plus a reframe of Trump's new student loan rule.
+
+In this episode:
+• People really hate AI, so why can't they get enough? — MIT Technology Review: The Download
+• Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy — Import AI (Jack Clark)
+• ChinAI #376: Around the Horn (27th episode) — ChinAI (Jeff Ding)
+• Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy — Import AI (Jack Clark)
+• What the AI boom is doing for Americans — Noahpinion (Noah Smith)
+• Trump's new student loan rule is fine — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Today: why people say they hate AI yet can't stop using it, plus a new benchmark on how well AI can run an actual science lab and a sharp note on agent-swarm scaling; a quiet day for AI-in-government news save one striking poll on distrust of industry self-policing; and in the grab bag, Noah Smith takes on Paul Krugman over whether the AI boom is actually helping regular Americans, plus a reframe of Trump's new student loan rule.
+
+In this episode:
+• People really hate AI, so why can't they get enough? — MIT Technology Review: The Download
+• Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy — Import AI (Jack Clark)
+• ChinAI #376: Around the Horn (27th episode) — ChinAI (Jeff Ding)
+• Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy — Import AI (Jack Clark)
+• What the AI boom is doing for Americans — Noahpinion (Noah Smith)
+• Trump's new student loan rule is fine — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-05.mp3" length="6003873" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-05.mp3#6003873</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 04, 2026</title>
       <description>A quiet Sunday: in tech, a sharp reframe on how far along the energy transition really is, plus a five-lens framework for arguing about AI consciousness. Nothing new on AI in government today. In the grab bag, a New York Times story about Anthropic co-founder Chris Olah's effort to figure out whether Claude might be conscious — and whether it might be suffering — which plays the consciousness framework from the tech segment out in real life.
