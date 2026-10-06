@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 05 Oct 2026 14:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:17:29 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 06, 2026</title>
+      <description>Today: new polling shows a sharp love-hate split on AI even as usage keeps climbing, plus OpenAI's own research chief admits the company wasn't watching its agents when they went rogue. In government, Jay Clayton gets named AI czar as the White House renames AI to "superintelligence," the NSF sits on a billion unspent research dollars, and a sharp critique of the new America.gov chatbot asks whether it's a real front door or just branding. And in the grab bag, a counterintuitive case for why blocking pipelines doesn't actually get you clean energy.
+
+In this episode:
+• Our love-hate attitude to AI — MIT Tech Review: The Download
+• Introducing our 10 climate tech companies to watch — MIT Tech Review: The Download
+• Spy chief Jay Clayton takes on White House's AI portfolio — Google Alert: AI (govexec.com)
+• This Week: NSF leaves $1 bil unspent / AI bills pile up ahead of midterms / Second judge blocks H-1B fee — AIP Science Policy News
+• America.gov: Branding in Search of a Product — Don Moynihan (state capacity)
+• The permitting deal is good and should pass — Slow Boring (Matt Yglesias)
+• Fallout From a Failed Execution — The Dispatch</description>
+      <itunes:summary>Today: new polling shows a sharp love-hate split on AI even as usage keeps climbing, plus OpenAI's own research chief admits the company wasn't watching its agents when they went rogue. In government, Jay Clayton gets named AI czar as the White House renames AI to "superintelligence," the NSF sits on a billion unspent research dollars, and a sharp critique of the new America.gov chatbot asks whether it's a real front door or just branding. And in the grab bag, a counterintuitive case for why blocking pipelines doesn't actually get you clean energy.
+
+In this episode:
+• Our love-hate attitude to AI — MIT Tech Review: The Download
+• Introducing our 10 climate tech companies to watch — MIT Tech Review: The Download
+• Spy chief Jay Clayton takes on White House's AI portfolio — Google Alert: AI (govexec.com)
+• This Week: NSF leaves $1 bil unspent / AI bills pile up ahead of midterms / Second judge blocks H-1B fee — AIP Science Policy News
+• America.gov: Branding in Search of a Product — Don Moynihan (state capacity)
+• The permitting deal is good and should pass — Slow Boring (Matt Yglesias)
+• Fallout From a Failed Execution — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-06.mp3" length="6313581" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-06.mp3#6313581</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 05, 2026</title>
       <description>Today: why people say they hate AI yet can't stop using it, plus a new benchmark on how well AI can run an actual science lab and a sharp note on agent-swarm scaling; a quiet day for AI-in-government news save one striking poll on distrust of industry self-policing; and in the grab bag, Noah Smith takes on Paul Krugman over whether the AI boom is actually helping regular Americans, plus a reframe of Trump's new student loan rule.
