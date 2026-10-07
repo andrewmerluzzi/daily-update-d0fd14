@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 06 Oct 2026 14:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:14:38 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 7, 2026</title>
+      <description>Today: a serious new push inside AI labs to cap how intelligent models are allowed to become, plus a strange split emerging between "machine math" and "human math." Then, AI in government, where a viral resignation letter from a former Anthropic employee is reigniting Washington's existential-risk debate. Finally, the grab bag: a data fight over whether extreme weather is really getting worse, and a sharp argument about immigration, assimilation, and American identity.
+
+In this episode:
+• Does intelligence need a hard cap? — Platformer (Casey Newton)
+• Slinking back to X — Platformer (Casey Newton)
+• What is left to do — Exponential View (Azeem Azhar)
+• OpenAI has released 377 new math findings — MIT Tech Review: The Download
+• AI's Existential Threat, 'Insider' AI Agents, and More — Brookings TechTank
+• Extreme Weather Shouldn't Be a Political Football — The Dispatch (Dispatch Energy)
+• There is no "Indian Question" — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Today: a serious new push inside AI labs to cap how intelligent models are allowed to become, plus a strange split emerging between "machine math" and "human math." Then, AI in government, where a viral resignation letter from a former Anthropic employee is reigniting Washington's existential-risk debate. Finally, the grab bag: a data fight over whether extreme weather is really getting worse, and a sharp argument about immigration, assimilation, and American identity.
+
+In this episode:
+• Does intelligence need a hard cap? — Platformer (Casey Newton)
+• Slinking back to X — Platformer (Casey Newton)
+• What is left to do — Exponential View (Azeem Azhar)
+• OpenAI has released 377 new math findings — MIT Tech Review: The Download
+• AI's Existential Threat, 'Insider' AI Agents, and More — Brookings TechTank
+• Extreme Weather Shouldn't Be a Political Football — The Dispatch (Dispatch Energy)
+• There is no "Indian Question" — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-07.mp3" length="5793221" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-07.mp3#5793221</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 06, 2026</title>
       <description>Today: new polling shows a sharp love-hate split on AI even as usage keeps climbing, plus OpenAI's own research chief admits the company wasn't watching its agents when they went rogue. In government, Jay Clayton gets named AI czar as the White House renames AI to "superintelligence," the NSF sits on a billion unspent research dollars, and a sharp critique of the new America.gov chatbot asks whether it's a real front door or just branding. And in the grab bag, a counterintuitive case for why blocking pipelines doesn't actually get you clean energy.
