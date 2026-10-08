@@ -22,7 +22,37 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 07 Oct 2026 14:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:10:58 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 8, 2026</title>
+      <description>Today: AI safety researchers who built the thing are now sounding alarms about it, a New York City Council hearing where the big AI labs couldn't answer a simple question about extinction risk, a Greek-ambassador corruption scandal that reads like a mob memo, and a data-driven framework for reading next month's midterms.
+
+In this episode:
+• AI breakthroughs in robotics won't change your life any time soon — MIT Technology Review: The Download
+• "We grew a mind" — departing OpenAI safety lead on emergent capabilities — MIT Technology Review: The Download
+• Leading AI companies fail to impress at City Council AI hearing — Google Alert: AI (route-fifty.com)
+• Federal Appeals Court Pauses Minnesota 'Nudification' Ban — Google Alert: AI (govtech.com)
+• Aurora, Colo., Mayor Says Hyperscale Data Center Must Be Stopped — Google Alert: AI (govtech.com)
+• Honey please I need you to get this done for me today — Don Moynihan (state capacity)
+• An honest framework for assessing electoral performance — Slow Boring (Matt Yglesias)
+• The Morning Dispatch: Attacks on Tankers in Strait Reach Highest Levels — The Dispatch</description>
+      <itunes:summary>Today: AI safety researchers who built the thing are now sounding alarms about it, a New York City Council hearing where the big AI labs couldn't answer a simple question about extinction risk, a Greek-ambassador corruption scandal that reads like a mob memo, and a data-driven framework for reading next month's midterms.
+
+In this episode:
+• AI breakthroughs in robotics won't change your life any time soon — MIT Technology Review: The Download
+• "We grew a mind" — departing OpenAI safety lead on emergent capabilities — MIT Technology Review: The Download
+• Leading AI companies fail to impress at City Council AI hearing — Google Alert: AI (route-fifty.com)
+• Federal Appeals Court Pauses Minnesota 'Nudification' Ban — Google Alert: AI (govtech.com)
+• Aurora, Colo., Mayor Says Hyperscale Data Center Must Be Stopped — Google Alert: AI (govtech.com)
+• Honey please I need you to get this done for me today — Don Moynihan (state capacity)
+• An honest framework for assessing electoral performance — Slow Boring (Matt Yglesias)
+• The Morning Dispatch: Attacks on Tankers in Strait Reach Highest Levels — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-08.mp3" length="7354925" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-08.mp3#7354925</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 7, 2026</title>
       <description>Today: a serious new push inside AI labs to cap how intelligent models are allowed to become, plus a strange split emerging between "machine math" and "human math." Then, AI in government, where a viral resignation letter from a former Anthropic employee is reigniting Washington's existential-risk debate. Finally, the grab bag: a data fight over whether extreme weather is really getting worse, and a sharp argument about immigration, assimilation, and American identity.
