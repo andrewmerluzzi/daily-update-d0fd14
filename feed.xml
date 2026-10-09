@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 08 Oct 2026 14:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:06:51 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 09, 2026</title>
+      <description>Today: why letting AI models "just refuse" dangerous requests is a shakier safety plan than it looks; Washington's increasingly strange rhetoric about AI, from a presidential rebrand demand to Peter Thiel's biblical case against regulation; and in the grab bag, a serious pitch for drone industrial policy collides with Noah Smith's theory that American culture has already ended, swiped away one video at a time.
+
+In this episode:
+• We're putting too much faith in AI's ability to say no — MIT Tech Review: The Download
+• OpenAI has slashed its revenue forecast by $20 billion — MIT Tech Review: The Download
+• Quote of the day: Trump's 'Superintelligence' rebrand threat — MIT Tech Review: The Download
+• Peter Thiel is using biblical prophecy to argue against AI regulation — MIT Tech Review: The Download
+• An Industrial Policy for Drones — The Dispatch
+• A drone strike in Russia knocked out a second Yandex data center — MIT Tech Review: The Download
+• Maybe the Rapture is already here — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Today: why letting AI models "just refuse" dangerous requests is a shakier safety plan than it looks; Washington's increasingly strange rhetoric about AI, from a presidential rebrand demand to Peter Thiel's biblical case against regulation; and in the grab bag, a serious pitch for drone industrial policy collides with Noah Smith's theory that American culture has already ended, swiped away one video at a time.
+
+In this episode:
+• We're putting too much faith in AI's ability to say no — MIT Tech Review: The Download
+• OpenAI has slashed its revenue forecast by $20 billion — MIT Tech Review: The Download
+• Quote of the day: Trump's 'Superintelligence' rebrand threat — MIT Tech Review: The Download
+• Peter Thiel is using biblical prophecy to argue against AI regulation — MIT Tech Review: The Download
+• An Industrial Policy for Drones — The Dispatch
+• A drone strike in Russia knocked out a second Yandex data center — MIT Tech Review: The Download
+• Maybe the Rapture is already here — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-09.mp3" length="5170045" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-09.mp3#5170045</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 8, 2026</title>
       <description>Today: AI safety researchers who built the thing are now sounding alarms about it, a New York City Council hearing where the big AI labs couldn't answer a simple question about extinction risk, a Greek-ambassador corruption scandal that reads like a mob memo, and a data-driven framework for reading next month's midterms.
