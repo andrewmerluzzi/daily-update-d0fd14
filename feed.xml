@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 09 Oct 2026 14:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:09:21 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 10, 2026</title>
+      <description>Today: Azeem Azhar spends a week working by voice alone, using a new AI agent instead of a laptop. Then, AI in government — Raleigh's agentic help desk bot posts real numbers, Casper approves AI bodycams with almost no public debate, and Hillsboro moves to cap data centers after a tax-break stunt backfires, all against New York state senator Kristen Gonzalez's fight to regulate AI. No grab bag today — nothing else cleared the bar.
+
+In this episode:
+• The end of screen time — Exponential View (Azeem Azhar)
+• Kristen Gonzalez and the fight to regulate AI — Route Fifty
+• This New Raleigh, N.C., IT Help Desk Agent Is, Well, Agentic — Government Technology
+• In Casper, Wyo., a Green Light for AI Police Bodycams — Government Technology
+• Hillsboro, Ore., Moves to Restrict Land for Data Centers — Government Technology</description>
+      <itunes:summary>Today: Azeem Azhar spends a week working by voice alone, using a new AI agent instead of a laptop. Then, AI in government — Raleigh's agentic help desk bot posts real numbers, Casper approves AI bodycams with almost no public debate, and Hillsboro moves to cap data centers after a tax-break stunt backfires, all against New York state senator Kristen Gonzalez's fight to regulate AI. No grab bag today — nothing else cleared the bar.
+
+In this episode:
+• The end of screen time — Exponential View (Azeem Azhar)
+• Kristen Gonzalez and the fight to regulate AI — Route Fifty
+• This New Raleigh, N.C., IT Help Desk Agent Is, Well, Agentic — Government Technology
+• In Casper, Wyo., a Green Light for AI Police Bodycams — Government Technology
+• Hillsboro, Ore., Moves to Restrict Land for Data Centers — Government Technology</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-10.mp3" length="4676019" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-10.mp3#4676019</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 09, 2026</title>
       <description>Today: why letting AI models "just refuse" dangerous requests is a shakier safety plan than it looks; Washington's increasingly strange rhetoric about AI, from a presidential rebrand demand to Peter Thiel's biblical case against regulation; and in the grab bag, a serious pitch for drone industrial policy collides with Noah Smith's theory that American culture has already ended, swiped away one video at a time.
