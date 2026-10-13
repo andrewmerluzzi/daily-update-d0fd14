@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 11 Oct 2026 14:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:03:47 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 13, 2026</title>
+      <description>Tech: Anthropic flags a downloadable Chinese model as a cyber risk, warns AI could soon copy itself onto smart TVs, and hackers cook French supermarket fridges. AI in government: the White House's six-billion-dollar science push, and the National Science Foundation literally rewriting 'AI' as 'super intelligence' in grants. The grab bag: Noah Smith on why New Keynesian economics finally won the Nobel, plus Matt Yglesias on why the AI boom makes national solidarity matter more.
+
+In this episode:
+• Open models have real benefits. Do they outweigh the risks? — MIT Tech Review: The Download
+• Must-reads: Anthropic self-replication warning; French supermarket fridge cyberattack — MIT Tech Review: The Download
+• White House unveils $6B science plan / 'Super intelligence' replaces AI — AIP Science Policy News
+• A Nobel for New Keynesian macro, at last! — Noahpinion (Noah Smith)
+• Destroying the West in order to save it — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Tech: Anthropic flags a downloadable Chinese model as a cyber risk, warns AI could soon copy itself onto smart TVs, and hackers cook French supermarket fridges. AI in government: the White House's six-billion-dollar science push, and the National Science Foundation literally rewriting 'AI' as 'super intelligence' in grants. The grab bag: Noah Smith on why New Keynesian economics finally won the Nobel, plus Matt Yglesias on why the AI boom makes national solidarity matter more.
+
+In this episode:
+• Open models have real benefits. Do they outweigh the risks? — MIT Tech Review: The Download
+• Must-reads: Anthropic self-replication warning; French supermarket fridge cyberattack — MIT Tech Review: The Download
+• White House unveils $6B science plan / 'Super intelligence' replaces AI — AIP Science Policy News
+• A Nobel for New Keynesian macro, at last! — Noahpinion (Noah Smith)
+• Destroying the West in order to save it — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-13.mp3" length="6777516" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-13.mp3#6777516</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 10, 2026</title>
       <description>Today: Azeem Azhar spends a week working by voice alone, using a new AI agent instead of a laptop. Then, AI in government — Raleigh's agentic help desk bot posts real numbers, Casper approves AI bodycams with almost no public debate, and Hillsboro moves to cap data centers after a tax-break stunt backfires, all against New York state senator Kristen Gonzalez's fight to regulate AI. No grab bag today — nothing else cleared the bar.
