@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 14 Oct 2026 14:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:05:01 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 15, 2026</title>
+      <description>Tech: eight states sue OpenAI using the consumer-protection playbook that beat Meta, and slip in a demand to ban self-improving AI, plus pig kidneys revived after a year in deep freeze. AI in government: Denver's council votes to unplug its 311 chatbot Sunny while Plano, Texas spends nearly as much on AI governance software as on ChatGPT itself. The grab bag: Noah Smith on why AI debt makes the railroad-bust comparison newly relevant, and Matt Yglesias on why activists pick fights with their own allies.
+
+In this episode:
+• The states come for OpenAI — Platformer (Casey Newton)
+• Pig kidneys that were frozen for a year have been brought back to life; OpenAI's automated researcher — MIT Tech Review: The Download
+• Denver AI Chatbot 'Sunny' May Go Dark After Contract Vote — Google Alert: AI (govtech.com)
+• Plano, Texas, OKs Spending $390K for Citywide AI Initiative — Google Alert: AI (govtech.com)
+• AI vs. the railroads — Noahpinion (Noah Smith)
+• Why anti-Israel protestors are targeting New York's anti-Zionist mayor — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Tech: eight states sue OpenAI using the consumer-protection playbook that beat Meta, and slip in a demand to ban self-improving AI, plus pig kidneys revived after a year in deep freeze. AI in government: Denver's council votes to unplug its 311 chatbot Sunny while Plano, Texas spends nearly as much on AI governance software as on ChatGPT itself. The grab bag: Noah Smith on why AI debt makes the railroad-bust comparison newly relevant, and Matt Yglesias on why activists pick fights with their own allies.
+
+In this episode:
+• The states come for OpenAI — Platformer (Casey Newton)
+• Pig kidneys that were frozen for a year have been brought back to life; OpenAI's automated researcher — MIT Tech Review: The Download
+• Denver AI Chatbot 'Sunny' May Go Dark After Contract Vote — Google Alert: AI (govtech.com)
+• Plano, Texas, OKs Spending $390K for Citywide AI Initiative — Google Alert: AI (govtech.com)
+• AI vs. the railroads — Noahpinion (Noah Smith)
+• Why anti-Israel protestors are targeting New York's anti-Zionist mayor — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-15.mp3" length="8158348" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-15.mp3#8158348</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 14, 2026</title>
       <description>Tech: the Pentagon's seventy-three-million-dollar push for shelf-stable blood, and the strange case of the OpenAI engineer charged with bugging a conference room, plus a detail about how he was caught. AI in government: Michael Lewis's new DOGE book 'Blockers' as read by Don Moynihan, California's 'No Robo Bosses' law, and an AI-built survey showing most New York school districts have no AI policy. Grab bag: the International Monetary Fund credits the AI boom with propping up global growth, and Matt Yglesias on what selective immigration would actually look like.
