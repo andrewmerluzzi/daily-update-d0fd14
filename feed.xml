@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 18 Oct 2026 14:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:05:02 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 19, 2026</title>
+      <description>Tech: Jack Clark tells the IMF the singularity has begun, AI agents left alone on a virtual island start to 'play', and young Chinese workers push back on the six-day week. AI in government: a quiet day, so a quick look at the Republican charge that Canada is interfering in the midterms as Alberta votes on separation. The grab bag: Ramez Naam, writing in Noahpinion, argues a million AI agents won't add up to superintelligence, and Matt Yglesias warns Democrats against complacency.
+
+In this episode:
+• Import AI 477: In which I tell the IMF the Singularity has begun — Import AI (Jack Clark)
+• AI researchers stranded Claude on a virtual desert island. It started to 'play.' — MIT Tech Review: The Download
+• ChinAI #378: China's Two-day Weekend Defenders — ChinAI (Jeff Ding)
+• Republicans Blame Canada for Midterm Woes, While Promoting Alberta Separatists — Don Moynihan (state capacity)
+• Can a Million AI Agents Create Superintelligence? — Noahpinion (Noah Smith)
+• Don't get complacent but also don't doom — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Tech: Jack Clark tells the IMF the singularity has begun, AI agents left alone on a virtual island start to 'play', and young Chinese workers push back on the six-day week. AI in government: a quiet day, so a quick look at the Republican charge that Canada is interfering in the midterms as Alberta votes on separation. The grab bag: Ramez Naam, writing in Noahpinion, argues a million AI agents won't add up to superintelligence, and Matt Yglesias warns Democrats against complacency.
+
+In this episode:
+• Import AI 477: In which I tell the IMF the Singularity has begun — Import AI (Jack Clark)
+• AI researchers stranded Claude on a virtual desert island. It started to 'play.' — MIT Tech Review: The Download
+• ChinAI #378: China's Two-day Weekend Defenders — ChinAI (Jeff Ding)
+• Republicans Blame Canada for Midterm Woes, While Promoting Alberta Separatists — Don Moynihan (state capacity)
+• Can a Million AI Agents Create Superintelligence? — Noahpinion (Noah Smith)
+• Don't get complacent but also don't doom — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-19.mp3" length="7224209" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-19.mp3#7224209</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 18, 2026</title>
       <description>Tech: Exponential View on the market jolt after Anthropic's leaked investor briefing, plus the case that AI will be a coral reef of many minds rather than one superintelligence. AI in Government: Stateline's finding that the data center buildout is now the largest financial bet in US history, and what it's doing to state tax bases, housing, and power bills, with a quick detour into Don Moynihan's favorite I Voted stickers. The Grab Bag: Noah Smith's argument that the New Right runs on an obsession with toughness.
