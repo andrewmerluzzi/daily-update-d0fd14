@@ -22,7 +22,43 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 19 Oct 2026 14:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:22:42 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 30, 2026</title>
+      <description>Tech: a researcher's claim that neural networks are easier to understand than we thought, and what the PHP2Shell flaw says about AI agents swarming the internet. AI in Government: the State Department's order to say 'super intelligence' instead of AI, OpenAI asking California for tougher safety rules, and a sheriff who dropped AI-written police reports. The Grab Bag: Noah Smith on the nature of liars, France's bond-market warning, and a diesel crisis hitting the midterms.
+
+In this episode:
+• "We were looking at it wrong": The explosive claim that's upended the AI world — MIT Tech Review: The Download
+• The internet's Wuhan moment — Exponential View (Azeem Azhar)
+• Are we there yet? A reality check on six big tech promises (PHP flaw update) — MIT Tech Review: The Download
+• State Department orders 'super intelligence' wording across all official communications — Google Alert: AI (govexec.com)
+• OpenAI urges Newsom to strengthen California's AI safety law with additional safeguards — Google Alert: AI (statescoop.com)
+• Kentucky Sheriff Nixes AI-Assisted Report Writing After Trial — Google Alert: AI (govtech.com)
+• How Data Centers Are Impacting Florida's Political Campaigns — Google Alert: AI (govtech.com)
+• Governing AI Agents, Evaluating AI Models, and More — Brookings TechTank
+• "You Can See Everything" and the nature of liars — Noahpinion (Noah Smith)
+• France and the limits of liberalism — Noahpinion (Noah Smith)
+• Donald Trump's Diesel Desperation — The Dispatch</description>
+      <itunes:summary>Tech: a researcher's claim that neural networks are easier to understand than we thought, and what the PHP2Shell flaw says about AI agents swarming the internet. AI in Government: the State Department's order to say 'super intelligence' instead of AI, OpenAI asking California for tougher safety rules, and a sheriff who dropped AI-written police reports. The Grab Bag: Noah Smith on the nature of liars, France's bond-market warning, and a diesel crisis hitting the midterms.
+
+In this episode:
+• "We were looking at it wrong": The explosive claim that's upended the AI world — MIT Tech Review: The Download
+• The internet's Wuhan moment — Exponential View (Azeem Azhar)
+• Are we there yet? A reality check on six big tech promises (PHP flaw update) — MIT Tech Review: The Download
+• State Department orders 'super intelligence' wording across all official communications — Google Alert: AI (govexec.com)
+• OpenAI urges Newsom to strengthen California's AI safety law with additional safeguards — Google Alert: AI (statescoop.com)
+• Kentucky Sheriff Nixes AI-Assisted Report Writing After Trial — Google Alert: AI (govtech.com)
+• How Data Centers Are Impacting Florida's Political Campaigns — Google Alert: AI (govtech.com)
+• Governing AI Agents, Evaluating AI Models, and More — Brookings TechTank
+• "You Can See Everything" and the nature of liars — Noahpinion (Noah Smith)
+• France and the limits of liberalism — Noahpinion (Noah Smith)
+• Donald Trump's Diesel Desperation — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-30.mp3" length="7498809" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-30.mp3#7498809</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 19, 2026</title>
       <description>Tech: Jack Clark tells the IMF the singularity has begun, AI agents left alone on a virtual island start to 'play', and young Chinese workers push back on the six-day week. AI in government: a quiet day, so a quick look at the Republican charge that Canada is interfering in the midterms as Alberta votes on separation. The grab bag: Ramez Naam, writing in Noahpinion, argues a million AI agents won't add up to superintelligence, and Matt Yglesias warns Democrats against complacency.
