@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 14:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:57:30 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — October 31, 2026</title>
+      <description>Tech is a quiet day. In AI in government: a grant to speed up how states map their creaky Medicaid and food-assistance systems, a grid CEO arguing AI can free up power for AI, and a Massachusetts city that banned data centers outright. In the grab bag: Noah Smith's farewell to Captain Picard and what the show got right about AI.
+
+In this episode:
+• Center for Civic Futures awards grant to Nava Labs to help modernize state benefits technology with AI — StateScoop (Google Alert)
+• Grid Expert: AI Could Hold the Key to Solving Its Own Energy Crisis — GovTech Industry Insider (Google Alert)
+• Haverhill, Mass., Bans Data Centers, Unplugs Battery Zone — GovTech (Google Alert)
+• Farewell, my Captain — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Tech is a quiet day. In AI in government: a grant to speed up how states map their creaky Medicaid and food-assistance systems, a grid CEO arguing AI can free up power for AI, and a Massachusetts city that banned data centers outright. In the grab bag: Noah Smith's farewell to Captain Picard and what the show got right about AI.
+
+In this episode:
+• Center for Civic Futures awards grant to Nava Labs to help modernize state benefits technology with AI — StateScoop (Google Alert)
+• Grid Expert: AI Could Hold the Key to Solving Its Own Energy Crisis — GovTech Industry Insider (Google Alert)
+• Haverhill, Mass., Bans Data Centers, Unplugs Battery Zone — GovTech (Google Alert)
+• Farewell, my Captain — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-31.mp3" length="5436807" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-10-31.mp3#5436807</guid>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 30, 2026</title>
       <description>Tech: a researcher's claim that neural networks are easier to understand than we thought, and what the PHP2Shell flaw says about AI agents swarming the internet. AI in Government: the State Department's order to say 'super intelligence' instead of AI, OpenAI asking California for tougher safety rules, and a sheriff who dropped AI-written police reports. The Grab Bag: Noah Smith on the nature of liars, France's bond-market warning, and a diesel crisis hitting the midterms.
