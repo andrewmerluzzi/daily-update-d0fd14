@@ -22,7 +22,25 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 14:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:02:47 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 01, 2026</title>
+      <description>Tech: Exponential View's argument that AI agents sharing weights and working state could create supercooperative, unbounded firms, plus the line between risk and uncertainty in a one-person biotech. AI in Government: a quiet day with nothing worth your time. The Grab Bag: why being a Christian institution doesn't guarantee a mission will succeed.
+
+In this episode:
+• 39 charts on Anthropic, one-person biotech firm &amp; cheap solar #608 — Exponential View (Azeem Azhar)
+• Why Christian Institutions Fail — The Dispatch</description>
+      <itunes:summary>Tech: Exponential View's argument that AI agents sharing weights and working state could create supercooperative, unbounded firms, plus the line between risk and uncertainty in a one-person biotech. AI in Government: a quiet day with nothing worth your time. The Grab Bag: why being a Christian institution doesn't guarantee a mission will succeed.
+
+In this episode:
+• 39 charts on Anthropic, one-person biotech firm &amp; cheap solar #608 — Exponential View (Azeem Azhar)
+• Why Christian Institutions Fail — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-01.mp3" length="3398317" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-01.mp3#3398317</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>4:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — October 31, 2026</title>
       <description>Tech is a quiet day. In AI in government: a grant to speed up how states map their creaky Medicaid and food-assistance systems, a grid CEO arguing AI can free up power for AI, and a Massachusetts city that banned data centers outright. In the grab bag: Noah Smith's farewell to Captain Picard and what the show got right about AI.
