@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 01 Nov 2026 15:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:02:20 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 02, 2026</title>
+      <description>Tech: a benchmark showing AI agents flounder when time is ticking, a trillion-dollar tech selloff, and the record Binance hack. AI in Government: a quiet day. The Grab Bag: whether intelligence itself can be a business moat, why China feels like it's harder to make money, and the strange fact that election forecasts can never be proven right.
+
+In this episode:
+• Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4 — Import AI (Jack Clark)
+• The agentic web is here — MIT Tech Review: The Download
+• Anthropic's moat is Claude — Noahpinion (Noah Smith)
+• ChinAI #380: It's getting more and more difficult to make money — ChinAI (Jeff Ding)
+• The seven most important midterms of all time — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Tech: a benchmark showing AI agents flounder when time is ticking, a trillion-dollar tech selloff, and the record Binance hack. AI in Government: a quiet day. The Grab Bag: whether intelligence itself can be a business moat, why China feels like it's harder to make money, and the strange fact that election forecasts can never be proven right.
+
+In this episode:
+• Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4 — Import AI (Jack Clark)
+• The agentic web is here — MIT Tech Review: The Download
+• Anthropic's moat is Claude — Noahpinion (Noah Smith)
+• ChinAI #380: It's getting more and more difficult to make money — ChinAI (Jeff Ding)
+• The seven most important midterms of all time — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-02.mp3" length="4746235" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-02.mp3#4746235</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 01, 2026</title>
       <description>Tech: Exponential View's argument that AI agents sharing weights and working state could create supercooperative, unbounded firms, plus the line between risk and uncertainty in a one-person biotech. AI in Government: a quiet day with nothing worth your time. The Grab Bag: why being a Christian institution doesn't guarantee a mission will succeed.
