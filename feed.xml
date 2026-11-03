@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 02 Nov 2026 15:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:29:48 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 03, 2026</title>
+      <description>On Election Day: in tech, the White House's push to rebrand artificial intelligence as Super Intelligence, and a new idea called reverse game theory for keeping AI agents in line. In AI and government, NSF backs away from a controversial grant rule, a tech-heavy science advisory council meets, and a case for hauling Elon Musk before Congress. In the grab bag, what not to watch on election night, Trump's falling approval and a record-high share of Americans unhappy with their finances, and a generic HIV prevention shot priced at forty dollars a year.
+
+In this episode:
+• Inside Trump's "Super Intelligence" rebrand — MIT Tech Review: The Download
+• How "reverse game theory" could keep AI agents in check — MIT Tech Review: The Download
+• Nvidia orders data center clients to limit China business — MIT Tech Review: The Download
+• NSF walks back changes based on OMB proposal / Tech-heavy PCAST convenes — AIP Science Policy News
+• Accountability Day for Musk? — Don Moynihan (state capacity)
+• What not to watch tonight — Slow Boring (Matt Yglesias)
+• Trump's Approval Ratings Wane — The Dispatch</description>
+      <itunes:summary>On Election Day: in tech, the White House's push to rebrand artificial intelligence as Super Intelligence, and a new idea called reverse game theory for keeping AI agents in line. In AI and government, NSF backs away from a controversial grant rule, a tech-heavy science advisory council meets, and a case for hauling Elon Musk before Congress. In the grab bag, what not to watch on election night, Trump's falling approval and a record-high share of Americans unhappy with their finances, and a generic HIV prevention shot priced at forty dollars a year.
+
+In this episode:
+• Inside Trump's "Super Intelligence" rebrand — MIT Tech Review: The Download
+• How "reverse game theory" could keep AI agents in check — MIT Tech Review: The Download
+• Nvidia orders data center clients to limit China business — MIT Tech Review: The Download
+• NSF walks back changes based on OMB proposal / Tech-heavy PCAST convenes — AIP Science Policy News
+• Accountability Day for Musk? — Don Moynihan (state capacity)
+• What not to watch tonight — Slow Boring (Matt Yglesias)
+• Trump's Approval Ratings Wane — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-03.mp3" length="6896948" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-03.mp3#6896948</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 02, 2026</title>
       <description>Tech: a benchmark showing AI agents flounder when time is ticking, a trillion-dollar tech selloff, and the record Binance hack. AI in Government: a quiet day. The Grab Bag: whether intelligence itself can be a business moat, why China feels like it's harder to make money, and the strange fact that election forecasts can never be proven right.
