@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 04 Nov 2026 17:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:32:07 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 05, 2026</title>
+      <description>Tech: the voter revolt against data centers, and what the Texas blue wave means for the AI buildout. AI in Government: nearly forty local ballot measures go against data centers, a Pennsylvania township split by buyouts, and a Missouri county paying for an AI budget tool. The Grab Bag: Matt Yglesias on why AIPAC's money stopped working, and the veto math facing the new Democratic Congress.
+
+In this episode:
+• Texas was the new epicenter of the AI data center buildout. That might be kaput. — MIT Tech Review: The Download
+• Voters reject data centers in local ballot initiatives — Route Fifty (Google Alert)
+• How a Pennsylvania Town Both Fights, Supports Data Centers — GovTech (Google Alert)
+• St. Louis County, Mo., Council Turns to AI for Budget Cuts — GovTech (Google Alert)
+• It's so over for AIPAC — Slow Boring
+• Democrats Won Congress. Now What? — The Dispatch</description>
+      <itunes:summary>Tech: the voter revolt against data centers, and what the Texas blue wave means for the AI buildout. AI in Government: nearly forty local ballot measures go against data centers, a Pennsylvania township split by buyouts, and a Missouri county paying for an AI budget tool. The Grab Bag: Matt Yglesias on why AIPAC's money stopped working, and the veto math facing the new Democratic Congress.
+
+In this episode:
+• Texas was the new epicenter of the AI data center buildout. That might be kaput. — MIT Tech Review: The Download
+• Voters reject data centers in local ballot initiatives — Route Fifty (Google Alert)
+• How a Pennsylvania Town Both Fights, Supports Data Centers — GovTech (Google Alert)
+• St. Louis County, Mo., Council Turns to AI for Budget Cuts — GovTech (Google Alert)
+• It's so over for AIPAC — Slow Boring
+• Democrats Won Congress. Now What? — The Dispatch</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-05.mp3" length="6951492" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-05.mp3#6951492</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 04, 2026</title>
       <description>Tech: the midterm fallout for tech billionaires, Google tying Search to AI for schools, the Binance heist via fake job interviews, and a retinal implant that restores reading vision. AI in Government: Tom Wheeler on how an AI bust could make Big AI bigger, plus where federal chief AI officers go next and the start of ads in ChatGPT. The Grab Bag: the Democratic sweep, the lessons the commentators draw from it, and why permitting reform may be the affordability fix that outlasts the election.
