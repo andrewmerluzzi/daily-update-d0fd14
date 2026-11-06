@@ -22,7 +22,41 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 04:32:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:04:05 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 06, 2026</title>
+      <description>Tech: the midterm backlash against data centers, a two and a half trillion dollar Nasdaq sell-off, and what Democrats should learn from the failed social media regulation era. AI in Government: voters crush local data center projects, and a St. Louis County experiment with AI budget cutting. The Grab Bag: how Meta's board and California's billionaire tax collided, why Matt Yglesias says AIPAC's influence is over, and Noah Smith's warning that Democrats' win is fragile.
+
+In this episode:
+• The AI backlash needs a plan — Platformer
+• Don't waste a good backlash — Exponential View
+• Texas was the new epicenter of the AI data center buildout. That might be kaput. — MIT Tech Review: The Download
+• $2.5 trillion has been wiped from the Nasdaq amid AI slowdown fears — MIT Tech Review: The Download
+• Voters reject data centers in local ballot initiatives — Route Fifty (Google Alert)
+• St. Louis County, Mo., Council Turns to AI for Budget Cuts — GovTech (Google Alert)
+• Why 'move fast and break things' doesn't work for government AI — Route Fifty (Google Alert)
+• California's Billionaire Tax Is Changing the World — The Dispatch
+• It's so over for AIPAC — Slow Boring
+• For the Democrats, now comes the hard part — Noahpinion</description>
+      <itunes:summary>Tech: the midterm backlash against data centers, a two and a half trillion dollar Nasdaq sell-off, and what Democrats should learn from the failed social media regulation era. AI in Government: voters crush local data center projects, and a St. Louis County experiment with AI budget cutting. The Grab Bag: how Meta's board and California's billionaire tax collided, why Matt Yglesias says AIPAC's influence is over, and Noah Smith's warning that Democrats' win is fragile.
+
+In this episode:
+• The AI backlash needs a plan — Platformer
+• Don't waste a good backlash — Exponential View
+• Texas was the new epicenter of the AI data center buildout. That might be kaput. — MIT Tech Review: The Download
+• $2.5 trillion has been wiped from the Nasdaq amid AI slowdown fears — MIT Tech Review: The Download
+• Voters reject data centers in local ballot initiatives — Route Fifty (Google Alert)
+• St. Louis County, Mo., Council Turns to AI for Budget Cuts — GovTech (Google Alert)
+• Why 'move fast and break things' doesn't work for government AI — Route Fifty (Google Alert)
+• California's Billionaire Tax Is Changing the World — The Dispatch
+• It's so over for AIPAC — Slow Boring
+• For the Democrats, now comes the hard part — Noahpinion</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-06.mp3" length="8486552" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-06.mp3#8486552</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 05, 2026</title>
       <description>Tech: the voter revolt against data centers, and what the Texas blue wave means for the AI buildout. AI in Government: nearly forty local ballot measures go against data centers, a Pennsylvania township split by buyouts, and a Missouri county paying for an AI budget tool. The Grab Bag: Matt Yglesias on why AIPAC's money stopped working, and the veto math facing the new Democratic Congress.
