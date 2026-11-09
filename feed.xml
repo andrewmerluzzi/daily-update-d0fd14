@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 08 Nov 2026 19:38:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:29:47 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 09, 2026</title>
+      <description>Tech: an AI system running a non-public Anthropic model proves a long-open quantum computing conjecture, and a Chinese VC insider says the embodied AI funding boom defies common sense. AI in Government: a light day, with Don Moynihan on how SNAP error rates are being used to quietly cut benefits. The Grab Bag: Noah Smith's bull case for the Anthropic IPO, in which every company becomes a subsidiary of a frontier lab.
+
+In this episode:
+• AI Science startup converts a quantum conjecture into a theorem — Import AI (Jack Clark)
+• ChinAI #381: China's Venture Capital Market is Defying Common Sense — ChinAI (Jeff Ding)
+• The climate case for AI has not been made — MIT Tech Review: The Download
+• How the new Democratic Congress can ensure Americans have enough to eat — Don Moynihan (state capacity)
+• Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO — Noahpinion (Noah Smith)</description>
+      <itunes:summary>Tech: an AI system running a non-public Anthropic model proves a long-open quantum computing conjecture, and a Chinese VC insider says the embodied AI funding boom defies common sense. AI in Government: a light day, with Don Moynihan on how SNAP error rates are being used to quietly cut benefits. The Grab Bag: Noah Smith's bull case for the Anthropic IPO, in which every company becomes a subsidiary of a frontier lab.
+
+In this episode:
+• AI Science startup converts a quantum conjecture into a theorem — Import AI (Jack Clark)
+• ChinAI #381: China's Venture Capital Market is Defying Common Sense — ChinAI (Jeff Ding)
+• The climate case for AI has not been made — MIT Tech Review: The Download
+• How the new Democratic Congress can ensure Americans have enough to eat — Don Moynihan (state capacity)
+• Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-09.mp3" length="6388815" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-09.mp3#6388815</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 08, 2026</title>
       <description>Tech: Exponential View on why AI's productivity payoff won't show up in the data yet. AI in Government: a new Justice Department task force, New York's feature-based chatbot law for minors, and an Illinois village's broken AI phone line. The Grab Bag: Noah Smith's turn toward being a China bear, and The Dispatch on people finding spirits in chatbots.
