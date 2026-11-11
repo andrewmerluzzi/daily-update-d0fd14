@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 10 Nov 2026 15:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:11:31 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 11, 2026</title>
+      <description>Tech: the reported Nvidia chip-smuggling spy scandal, Anthropic's IPO pricing, and the debate over open AI models. AI in Government: a hundred-and-twenty-nine-million-dollar deepfake fraud ring, Minneapolis writing data center rules, and Jacksonville's efficiency numbers. The grab bag: the case that India is quietly doing great, and a sharper way to think about ideology and electability.
+
+In this episode:
+• Six wild ideas for perpetuating your mind / The must-reads (Nvidia spy scandal, Anthropic IPO, open models) — MIT Tech Review: The Download
+• Nvidia's Chinese Spy Scandal / Anthropic Sets IPO Price Range — The Dispatch
+• Federal Prosecutors Uncover $129M AI Fraud Scheme Targeting Hospitals, Businesses — GovTech (Google Alert)
+• Minneapolis City Council Crafts New Data Center Regulations — GovTech (Google Alert)
+• Tech Helps Jacksonville, Fla., Save Thousands of Work Hours — GovTech (Google Alert)
+• India is quietly doing great — Noahpinion (Noah Smith)
+• Twenty-three points on the midterms and the narrative — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Tech: the reported Nvidia chip-smuggling spy scandal, Anthropic's IPO pricing, and the debate over open AI models. AI in Government: a hundred-and-twenty-nine-million-dollar deepfake fraud ring, Minneapolis writing data center rules, and Jacksonville's efficiency numbers. The grab bag: the case that India is quietly doing great, and a sharper way to think about ideology and electability.
+
+In this episode:
+• Six wild ideas for perpetuating your mind / The must-reads (Nvidia spy scandal, Anthropic IPO, open models) — MIT Tech Review: The Download
+• Nvidia's Chinese Spy Scandal / Anthropic Sets IPO Price Range — The Dispatch
+• Federal Prosecutors Uncover $129M AI Fraud Scheme Targeting Hospitals, Businesses — GovTech (Google Alert)
+• Minneapolis City Council Crafts New Data Center Regulations — GovTech (Google Alert)
+• Tech Helps Jacksonville, Fla., Save Thousands of Work Hours — GovTech (Google Alert)
+• India is quietly doing great — Noahpinion (Noah Smith)
+• Twenty-three points on the midterms and the narrative — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-11.mp3" length="6516397" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-11.mp3#6516397</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>8:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 10, 2026</title>
       <description>Tech: why the data center backlash may really be about electricity, Azeem Azhar's read on AI spending after the midterms, and the Nvidia and Megaspeed controversy. AI in Government: Mississippi's permit fight with SpaceXAI, what Texas's new Democratic officials want for data centers, and a push to revive congressional tech expertise. The Grab Bag: what's actually distinctive about Bernie Sanders's populism, and a fridge-hacking story out of France.
