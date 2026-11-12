@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 11 Nov 2026 17:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:02:45 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 12, 2026</title>
+      <description>Tech: Nvidia's board reportedly prepares to oust CEO Jensen Huang amid a chip-smuggling spy scandal, plus China's AI-made short dramas. AI in Government: Don Moynihan argues the government has become a hostage to its tech vendors. The Grab Bag: Matt Yglesias on why voter anger over the cost of living may be a crisis of politics rather than economics.
+
+In this episode:
+• Nvidia Board Prepares to Oust CEO Jensen Huang — The Dispatch
+• The Nvidia spy scandal is set to tighten chip exports — MIT Tech Review: The Download
+• How Chinese short dramas became AI content machines — MIT Tech Review: The Download
+• From Customer to Hostage — Don Moynihan (state capacity)
+• Gasoline isn't really that expensive — Slow Boring (Matt Yglesias)</description>
+      <itunes:summary>Tech: Nvidia's board reportedly prepares to oust CEO Jensen Huang amid a chip-smuggling spy scandal, plus China's AI-made short dramas. AI in Government: Don Moynihan argues the government has become a hostage to its tech vendors. The Grab Bag: Matt Yglesias on why voter anger over the cost of living may be a crisis of politics rather than economics.
+
+In this episode:
+• Nvidia Board Prepares to Oust CEO Jensen Huang — The Dispatch
+• The Nvidia spy scandal is set to tighten chip exports — MIT Tech Review: The Download
+• How Chinese short dramas became AI content machines — MIT Tech Review: The Download
+• From Customer to Hostage — Don Moynihan (state capacity)
+• Gasoline isn't really that expensive — Slow Boring (Matt Yglesias)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-12.mp3" length="5632413" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-12.mp3#5632413</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>7:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 11, 2026</title>
       <description>Tech: the reported Nvidia chip-smuggling spy scandal, Anthropic's IPO pricing, and the debate over open AI models. AI in Government: a hundred-and-twenty-nine-million-dollar deepfake fraud ring, Minneapolis writing data center rules, and Jacksonville's efficiency numbers. The grab bag: the case that India is quietly doing great, and a sharper way to think about ideology and electability.
