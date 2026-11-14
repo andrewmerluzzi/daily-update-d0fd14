@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 13 Nov 2026 16:57:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:34:31 +0000</lastBuildDate>
+    <item>
+      <title>Daily Update — November 14, 2026</title>
+      <description>In tech, Azeem Azhar asks what it actually costs to 'make' a worker, human versus machine. In AI in government, Texas lawmakers file a bill for a standalone state Department of AI, and new data on one million job postings shows entry-level tech jobs shifting from writing code to answering for it. In the grab bag, Noah Smith explains why the midterms made him more optimistic about American politics.
+
+In this episode:
+• What does it cost to make a worker? — Exponential View (Azeem Azhar)
+• Texas Lawmakers Will Consider Creating a Department of AI — GovTech (Google Alert)
+• AI Is Changing What Employers Want From Entry-Level Tech Workers — GovTech (Google Alert)
+• I'm feeling more optimistic about American politics — Noahpinion (Noah Smith)</description>
+      <itunes:summary>In tech, Azeem Azhar asks what it actually costs to 'make' a worker, human versus machine. In AI in government, Texas lawmakers file a bill for a standalone state Department of AI, and new data on one million job postings shows entry-level tech jobs shifting from writing code to answering for it. In the grab bag, Noah Smith explains why the midterms made him more optimistic about American politics.
+
+In this episode:
+• What does it cost to make a worker? — Exponential View (Azeem Azhar)
+• Texas Lawmakers Will Consider Creating a Department of AI — GovTech (Google Alert)
+• AI Is Changing What Employers Want From Entry-Level Tech Workers — GovTech (Google Alert)
+• I'm feeling more optimistic about American politics — Noahpinion (Noah Smith)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-14.mp3" length="8055845" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/daily-update-d0fd14/audio/2026-11-14.mp3#8055845</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>10:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Update — November 13, 2026</title>
       <description>Tech: Jensen Huang's resignation from Nvidia, the end of Silicon Valley's founder cult, and the chip-tracking question Nvidia privately answered. AI in Government: a proposed National AI Feed, a Texas bill for a standalone AI department, and Massachusetts betting on small, specialized models. The grab bag: how tariffs sank economic populism in the midterms, and Noah Smith and Brad DeLong on what reindustrialization is really for.
